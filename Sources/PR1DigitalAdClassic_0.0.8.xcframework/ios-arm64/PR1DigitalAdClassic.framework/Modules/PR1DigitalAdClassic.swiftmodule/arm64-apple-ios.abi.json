@@ -7668,6 +7668,115 @@
             ]
           },
           {
+            "kind": "Var",
+            "name": "delegate",
+            "printedName": "delegate",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "WeakStorage",
+                "printedName": "(any PR1DigitalAdClassic.OfferDelegate)?"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:19PR1DigitalAdClassic0bC0C8delegateAA13OfferDelegate_pSgvp",
+            "mangledName": "$s19PR1DigitalAdClassic0bC0C8delegateAA13OfferDelegate_pSgvp",
+            "moduleName": "PR1DigitalAdClassic",
+            "isOpen": true,
+            "declAttributes": [
+              "HasInitialValue",
+              "HasStorage",
+              "Custom",
+              "ReferenceOwnership",
+              "AccessControl",
+              "RawDocComment"
+            ],
+            "ownership": 1,
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "(any PR1DigitalAdClassic.OfferDelegate)?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "OfferDelegate",
+                        "printedName": "any PR1DigitalAdClassic.OfferDelegate",
+                        "usr": "s:19PR1DigitalAdClassic13OfferDelegateP"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:19PR1DigitalAdClassic0bC0C8delegateAA13OfferDelegate_pSgvg",
+                "mangledName": "$s19PR1DigitalAdClassic0bC0C8delegateAA13OfferDelegate_pSgvg",
+                "moduleName": "PR1DigitalAdClassic",
+                "implicit": true,
+                "isOpen": true,
+                "accessorKind": "get"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Set",
+                "printedName": "Set()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "(any PR1DigitalAdClassic.OfferDelegate)?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "OfferDelegate",
+                        "printedName": "any PR1DigitalAdClassic.OfferDelegate",
+                        "usr": "s:19PR1DigitalAdClassic13OfferDelegateP"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:19PR1DigitalAdClassic0bC0C8delegateAA13OfferDelegate_pSgvs",
+                "mangledName": "$s19PR1DigitalAdClassic0bC0C8delegateAA13OfferDelegate_pSgvs",
+                "moduleName": "PR1DigitalAdClassic",
+                "implicit": true,
+                "isOpen": true,
+                "accessorKind": "set"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Modify",
+                "printedName": "Modify()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:19PR1DigitalAdClassic0bC0C8delegateAA13OfferDelegate_pSgvM",
+                "mangledName": "$s19PR1DigitalAdClassic0bC0C8delegateAA13OfferDelegate_pSgvM",
+                "moduleName": "PR1DigitalAdClassic",
+                "implicit": true,
+                "isOpen": true,
+                "accessorKind": "_modify"
+              }
+            ]
+          },
+          {
             "kind": "Constructor",
             "name": "init",
             "printedName": "init()",
@@ -7792,115 +7901,6 @@
               "Required"
             ],
             "init_kind": "Designated"
-          },
-          {
-            "kind": "Var",
-            "name": "delegate",
-            "printedName": "delegate",
-            "children": [
-              {
-                "kind": "TypeNominal",
-                "name": "WeakStorage",
-                "printedName": "(any PR1DigitalAdClassic.OfferDelegate)?"
-              }
-            ],
-            "declKind": "Var",
-            "usr": "s:19PR1DigitalAdClassic0bC0C8delegateAA13OfferDelegate_pSgvp",
-            "mangledName": "$s19PR1DigitalAdClassic0bC0C8delegateAA13OfferDelegate_pSgvp",
-            "moduleName": "PR1DigitalAdClassic",
-            "isOpen": true,
-            "declAttributes": [
-              "HasInitialValue",
-              "HasStorage",
-              "Custom",
-              "ReferenceOwnership",
-              "AccessControl",
-              "RawDocComment"
-            ],
-            "ownership": 1,
-            "hasStorage": true,
-            "accessors": [
-              {
-                "kind": "Accessor",
-                "name": "Get",
-                "printedName": "Get()",
-                "children": [
-                  {
-                    "kind": "TypeNominal",
-                    "name": "Optional",
-                    "printedName": "(any PR1DigitalAdClassic.OfferDelegate)?",
-                    "children": [
-                      {
-                        "kind": "TypeNominal",
-                        "name": "OfferDelegate",
-                        "printedName": "any PR1DigitalAdClassic.OfferDelegate",
-                        "usr": "s:19PR1DigitalAdClassic13OfferDelegateP"
-                      }
-                    ],
-                    "usr": "s:Sq"
-                  }
-                ],
-                "declKind": "Accessor",
-                "usr": "s:19PR1DigitalAdClassic0bC0C8delegateAA13OfferDelegate_pSgvg",
-                "mangledName": "$s19PR1DigitalAdClassic0bC0C8delegateAA13OfferDelegate_pSgvg",
-                "moduleName": "PR1DigitalAdClassic",
-                "implicit": true,
-                "isOpen": true,
-                "accessorKind": "get"
-              },
-              {
-                "kind": "Accessor",
-                "name": "Set",
-                "printedName": "Set()",
-                "children": [
-                  {
-                    "kind": "TypeNominal",
-                    "name": "Void",
-                    "printedName": "()"
-                  },
-                  {
-                    "kind": "TypeNominal",
-                    "name": "Optional",
-                    "printedName": "(any PR1DigitalAdClassic.OfferDelegate)?",
-                    "children": [
-                      {
-                        "kind": "TypeNominal",
-                        "name": "OfferDelegate",
-                        "printedName": "any PR1DigitalAdClassic.OfferDelegate",
-                        "usr": "s:19PR1DigitalAdClassic13OfferDelegateP"
-                      }
-                    ],
-                    "usr": "s:Sq"
-                  }
-                ],
-                "declKind": "Accessor",
-                "usr": "s:19PR1DigitalAdClassic0bC0C8delegateAA13OfferDelegate_pSgvs",
-                "mangledName": "$s19PR1DigitalAdClassic0bC0C8delegateAA13OfferDelegate_pSgvs",
-                "moduleName": "PR1DigitalAdClassic",
-                "implicit": true,
-                "isOpen": true,
-                "accessorKind": "set"
-              },
-              {
-                "kind": "Accessor",
-                "name": "Modify",
-                "printedName": "Modify()",
-                "children": [
-                  {
-                    "kind": "TypeNominal",
-                    "name": "Void",
-                    "printedName": "()"
-                  }
-                ],
-                "declKind": "Accessor",
-                "usr": "s:19PR1DigitalAdClassic0bC0C8delegateAA13OfferDelegate_pSgvM",
-                "mangledName": "$s19PR1DigitalAdClassic0bC0C8delegateAA13OfferDelegate_pSgvM",
-                "moduleName": "PR1DigitalAdClassic",
-                "implicit": true,
-                "isOpen": true,
-                "accessorKind": "_modify"
-              }
-            ]
           },
           {
             "kind": "Function",
@@ -24806,588 +24806,588 @@
   },
   "ConstValues": [
     {
-      "filePath": "\/Users\/sridatta\/Desktop\/PR1\/Library\/git_lib_dev\/fw2\/fw\/PR1DALDemoApp\/PR1DigitalAdClassic\/PR1DigitalAdClassic\/CustomViews\/ToastView.swift",
+      "filePath": "\/Users\/sridatta\/Documents\/GitHub\/PR1DigitalAd-Kroger-IOS\/PR1DigitalAdClassic\/PR1DigitalAdClassic\/CustomViews\/ToastView.swift",
       "kind": "StringLiteral",
       "offset": 122,
       "length": 19,
       "value": "\"PR1DigitalAdClassic.ToastViewController\""
     },
     {
-      "filePath": "\/Users\/sridatta\/Desktop\/PR1\/Library\/git_lib_dev\/fw2\/fw\/PR1DALDemoApp\/PR1DigitalAdClassic\/PR1DigitalAdClassic\/Constants\/ColorConstants.swift",
+      "filePath": "\/Users\/sridatta\/Documents\/GitHub\/PR1DigitalAd-Kroger-IOS\/PR1DigitalAdClassic\/PR1DigitalAdClassic\/Constants\/ColorConstants.swift",
       "kind": "StringLiteral",
       "offset": 222,
       "length": 8,
       "value": "\"E8F6FC\""
     },
     {
-      "filePath": "\/Users\/sridatta\/Desktop\/PR1\/Library\/git_lib_dev\/fw2\/fw\/PR1DALDemoApp\/PR1DigitalAdClassic\/PR1DigitalAdClassic\/Constants\/ColorConstants.swift",
+      "filePath": "\/Users\/sridatta\/Documents\/GitHub\/PR1DigitalAd-Kroger-IOS\/PR1DigitalAdClassic\/PR1DigitalAdClassic\/Constants\/ColorConstants.swift",
       "kind": "StringLiteral",
       "offset": 293,
       "length": 8,
       "value": "\"006BB7\""
     },
     {
-      "filePath": "\/Users\/sridatta\/Desktop\/PR1\/Library\/git_lib_dev\/fw2\/fw\/PR1DALDemoApp\/PR1DigitalAdClassic\/PR1DigitalAdClassic\/Constants\/ColorConstants.swift",
+      "filePath": "\/Users\/sridatta\/Documents\/GitHub\/PR1DigitalAd-Kroger-IOS\/PR1DigitalAdClassic\/PR1DigitalAdClassic\/Constants\/ColorConstants.swift",
       "kind": "StringLiteral",
       "offset": 364,
       "length": 8,
       "value": "\"DBDBDB\""
     },
     {
-      "filePath": "\/Users\/sridatta\/Desktop\/PR1\/Library\/git_lib_dev\/fw2\/fw\/PR1DALDemoApp\/PR1DigitalAdClassic\/PR1DigitalAdClassic\/Constants\/ColorConstants.swift",
+      "filePath": "\/Users\/sridatta\/Documents\/GitHub\/PR1DigitalAd-Kroger-IOS\/PR1DigitalAdClassic\/PR1DigitalAdClassic\/Constants\/ColorConstants.swift",
       "kind": "StringLiteral",
       "offset": 435,
       "length": 8,
       "value": "\"333333\""
     },
     {
-      "filePath": "\/Users\/sridatta\/Desktop\/PR1\/Library\/git_lib_dev\/fw2\/fw\/PR1DALDemoApp\/PR1DigitalAdClassic\/PR1DigitalAdClassic\/Constants\/ColorConstants.swift",
+      "filePath": "\/Users\/sridatta\/Documents\/GitHub\/PR1DigitalAd-Kroger-IOS\/PR1DigitalAdClassic\/PR1DigitalAdClassic\/Constants\/ColorConstants.swift",
       "kind": "StringLiteral",
       "offset": 506,
       "length": 8,
       "value": "\"097969\""
     },
     {
-      "filePath": "\/Users\/sridatta\/Desktop\/PR1\/Library\/git_lib_dev\/fw2\/fw\/PR1DALDemoApp\/PR1DigitalAdClassic\/PR1DigitalAdClassic\/Constants\/ColorConstants.swift",
+      "filePath": "\/Users\/sridatta\/Documents\/GitHub\/PR1DigitalAd-Kroger-IOS\/PR1DigitalAdClassic\/PR1DigitalAdClassic\/Constants\/ColorConstants.swift",
       "kind": "StringLiteral",
       "offset": 577,
       "length": 8,
       "value": "\"AFE1AF\""
     },
     {
-      "filePath": "\/Users\/sridatta\/Desktop\/PR1\/Library\/git_lib_dev\/fw2\/fw\/PR1DALDemoApp\/PR1DigitalAdClassic\/PR1DigitalAdClassic\/Constants\/ApiConstants.swift",
+      "filePath": "\/Users\/sridatta\/Documents\/GitHub\/PR1DigitalAd-Kroger-IOS\/PR1DigitalAdClassic\/PR1DigitalAdClassic\/Constants\/ApiConstants.swift",
       "kind": "StringLiteral",
       "offset": 250,
       "length": 9,
       "value": "\"XApiKey\""
     },
     {
-      "filePath": "\/Users\/sridatta\/Desktop\/PR1\/Library\/git_lib_dev\/fw2\/fw\/PR1DALDemoApp\/PR1DigitalAdClassic\/PR1DigitalAdClassic\/Constants\/ApiConstants.swift",
+      "filePath": "\/Users\/sridatta\/Documents\/GitHub\/PR1DigitalAd-Kroger-IOS\/PR1DigitalAdClassic\/PR1DigitalAdClassic\/Constants\/ApiConstants.swift",
       "kind": "StringLiteral",
       "offset": 302,
       "length": 34,
       "value": "\"pgH7QzFHJx4w46fI~5Uzi4RvtTwlEXp2\""
     },
     {
-      "filePath": "\/Users\/sridatta\/Desktop\/PR1\/Library\/git_lib_dev\/fw2\/fw\/PR1DALDemoApp\/PR1DigitalAdClassic\/PR1DigitalAdClassic\/Constants\/ApiConstants.swift",
+      "filePath": "\/Users\/sridatta\/Documents\/GitHub\/PR1DigitalAd-Kroger-IOS\/PR1DigitalAdClassic\/PR1DigitalAdClassic\/Constants\/ApiConstants.swift",
       "kind": "StringLiteral",
       "offset": 458,
       "length": 9,
       "value": "\"XApiKey\""
     },
     {
-      "filePath": "\/Users\/sridatta\/Desktop\/PR1\/Library\/git_lib_dev\/fw2\/fw\/PR1DALDemoApp\/PR1DigitalAdClassic\/PR1DigitalAdClassic\/Constants\/ApiConstants.swift",
+      "filePath": "\/Users\/sridatta\/Documents\/GitHub\/PR1DigitalAd-Kroger-IOS\/PR1DigitalAdClassic\/PR1DigitalAdClassic\/Constants\/ApiConstants.swift",
       "kind": "StringLiteral",
       "offset": 510,
       "length": 34,
       "value": "\"pgH7QzFHJx4w46fI~5Uzi4RvtTwlEXp2\""
     },
     {
-      "filePath": "\/Users\/sridatta\/Desktop\/PR1\/Library\/git_lib_dev\/fw2\/fw\/PR1DALDemoApp\/PR1DigitalAdClassic\/PR1DigitalAdClassic\/Constants\/ApiConstants.swift",
+      "filePath": "\/Users\/sridatta\/Documents\/GitHub\/PR1DigitalAd-Kroger-IOS\/PR1DigitalAdClassic\/PR1DigitalAdClassic\/Constants\/ApiConstants.swift",
       "kind": "StringLiteral",
       "offset": 664,
       "length": 758,
       "value": "\"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImN0eSI6IkpXVCJ9.eyJhbGciOiJITUFDMjU2IiwiaXNzIjoicHVyZXJlZC1hZG1pbi0hISQkIiwic3ViIjoicHVyZXJlZC1hZG1pbi0hISQkIiwiYXVkIjoiMjE4MzcyMy0yOTAzODItMjNeXiYoIiwiaWF0IjoxNzE1ODM5MjEzLCJleHAiOjE3MTU5MjU2MTMuMCwidWlkIjoiNWU5NGJkYmItMzEwNi00MWUyLWI4ODktYjQ1YzBhZWM0MDhkIiwiY2xhaW1zIjp7ImVtYWlsIjoic3VwZXIuYWRtaW5AcHVyZXJlZC5jb20iLCJkaXNwbGF5TmFtZSI6IkFkbWluIFN1cGVyIn0sInNlY3JldCI6IjI1MTRFNEM2LUJCNkYtNEU2MC05QTk4LUE4MzU4QzczOERCMCIsImp0aSI6IjNlZmJhYWQxLTFiYWYtNDAxNC05YzU4LTExNzUzYjk5MGNhMCIsInN1YnNjcmlwdGlvbiI6IjgzYThmMjE3LWExODAtNGYzNC1hY2MwLTUxNzA5ZjJmZjg2MiIsInN1YnNjcmlwdGlvbnNwZWNpZmljIjoiMSIsInJvbGUiOiJTdXBlckFkbWluIiwic2lkIjoiZWJkZGNlOTEtMDg4MS00OGIwLTk4NmItNTU4Mzg1NzY3ODQ1In0.4CxuadczR1-ZPyq1kphqskZih662EvHjKAgk6Lh7Q50\""
     },
     {
-      "filePath": "\/Users\/sridatta\/Desktop\/PR1\/Library\/git_lib_dev\/fw2\/fw\/PR1DALDemoApp\/PR1DigitalAdClassic\/PR1DigitalAdClassic\/Constants\/ApiConstants.swift",
+      "filePath": "\/Users\/sridatta\/Documents\/GitHub\/PR1DigitalAd-Kroger-IOS\/PR1DigitalAdClassic\/PR1DigitalAdClassic\/Constants\/ApiConstants.swift",
       "kind": "StringLiteral",
       "offset": 1466,
       "length": 15,
       "value": "\"Authorization\""
     },
     {
-      "filePath": "\/Users\/sridatta\/Desktop\/PR1\/Library\/git_lib_dev\/fw2\/fw\/PR1DALDemoApp\/PR1DigitalAdClassic\/PR1DigitalAdClassic\/Constants\/ApiConstants.swift",
+      "filePath": "\/Users\/sridatta\/Documents\/GitHub\/PR1DigitalAd-Kroger-IOS\/PR1DigitalAdClassic\/PR1DigitalAdClassic\/Constants\/ApiConstants.swift",
       "kind": "StringLiteral",
       "offset": 1483,
       "length": 26,
       "value": "\"Bearer \""
     },
     {
-      "filePath": "\/Users\/sridatta\/Desktop\/PR1\/Library\/git_lib_dev\/fw2\/fw\/PR1DALDemoApp\/PR1DigitalAdClassic\/PR1DigitalAdClassic\/Constants\/ApiConstants.swift",
+      "filePath": "\/Users\/sridatta\/Documents\/GitHub\/PR1DigitalAd-Kroger-IOS\/PR1DigitalAdClassic\/PR1DigitalAdClassic\/Constants\/ApiConstants.swift",
       "kind": "StringLiteral",
       "offset": 1508,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/sridatta\/Desktop\/PR1\/Library\/git_lib_dev\/fw2\/fw\/PR1DALDemoApp\/PR1DigitalAdClassic\/PR1DigitalAdClassic\/Constants\/ApiConstants.swift",
+      "filePath": "\/Users\/sridatta\/Documents\/GitHub\/PR1DigitalAd-Kroger-IOS\/PR1DigitalAdClassic\/PR1DigitalAdClassic\/Constants\/ApiConstants.swift",
       "kind": "StringLiteral",
       "offset": 1672,
       "length": 66,
       "value": "\"https:\/\/oms-kroger-webapp-da-classic-api-qa.przone.net\/api\/dacs\/\""
     },
     {
-      "filePath": "\/Users\/sridatta\/Desktop\/PR1\/Library\/git_lib_dev\/fw2\/fw\/PR1DALDemoApp\/PR1DigitalAdClassic\/PR1DigitalAdClassic\/Constants\/ApiConstants.swift",
+      "filePath": "\/Users\/sridatta\/Documents\/GitHub\/PR1DigitalAd-Kroger-IOS\/PR1DigitalAdClassic\/PR1DigitalAdClassic\/Constants\/ApiConstants.swift",
       "kind": "StringLiteral",
       "offset": 1781,
       "length": 68,
       "value": "\"https:\/\/oms-kroger-webapp-da-classic-api-prod.przone.net\/api\/dacs\/\""
     },
     {
-      "filePath": "\/Users\/sridatta\/Desktop\/PR1\/Library\/git_lib_dev\/fw2\/fw\/PR1DALDemoApp\/PR1DigitalAdClassic\/PR1DigitalAdClassic\/Singletons\/ApiManager.swift",
+      "filePath": "\/Users\/sridatta\/Documents\/GitHub\/PR1DigitalAd-Kroger-IOS\/PR1DigitalAdClassic\/PR1DigitalAdClassic\/Singletons\/ApiManager.swift",
       "kind": "StringLiteral",
       "offset": 5569,
       "length": 22,
       "value": "\"image.prefetch.queue\""
     },
     {
-      "filePath": "\/Users\/sridatta\/Desktop\/PR1\/Library\/git_lib_dev\/fw2\/fw\/PR1DALDemoApp\/PR1DigitalAdClassic\/PR1DigitalAdClassic\/Views\/DigitalAd.swift",
+      "filePath": "\/Users\/sridatta\/Documents\/GitHub\/PR1DigitalAd-Kroger-IOS\/PR1DigitalAdClassic\/PR1DigitalAdClassic\/Views\/DigitalAd.swift",
       "kind": "StringLiteral",
       "offset": 157,
       "length": 4,
       "value": "\"QA\""
     },
     {
-      "filePath": "\/Users\/sridatta\/Desktop\/PR1\/Library\/git_lib_dev\/fw2\/fw\/PR1DALDemoApp\/PR1DigitalAdClassic\/PR1DigitalAdClassic\/Views\/DigitalAd.swift",
+      "filePath": "\/Users\/sridatta\/Documents\/GitHub\/PR1DigitalAd-Kroger-IOS\/PR1DigitalAdClassic\/PR1DigitalAdClassic\/Views\/DigitalAd.swift",
       "kind": "StringLiteral",
       "offset": 178,
       "length": 6,
       "value": "\"PROD\""
     },
     {
-      "filePath": "\/Users\/sridatta\/Desktop\/PR1\/Library\/git_lib_dev\/fw2\/fw\/PR1DALDemoApp\/PR1DigitalAdClassic\/PR1DigitalAdClassic\/Views\/DigitalAd.swift",
+      "filePath": "\/Users\/sridatta\/Documents\/GitHub\/PR1DigitalAd-Kroger-IOS\/PR1DigitalAdClassic\/PR1DigitalAdClassic\/Views\/DigitalAd.swift",
       "kind": "StringLiteral",
       "offset": 157,
       "length": 4,
       "value": "\"QA\""
     },
     {
-      "filePath": "\/Users\/sridatta\/Desktop\/PR1\/Library\/git_lib_dev\/fw2\/fw\/PR1DALDemoApp\/PR1DigitalAdClassic\/PR1DigitalAdClassic\/Views\/DigitalAd.swift",
+      "filePath": "\/Users\/sridatta\/Documents\/GitHub\/PR1DigitalAd-Kroger-IOS\/PR1DigitalAdClassic\/PR1DigitalAdClassic\/Views\/DigitalAd.swift",
       "kind": "StringLiteral",
       "offset": 178,
       "length": 6,
       "value": "\"PROD\""
     },
     {
-      "filePath": "\/Users\/sridatta\/Desktop\/PR1\/Library\/git_lib_dev\/fw2\/fw\/PR1DALDemoApp\/PR1DigitalAdClassic\/PR1DigitalAdClassic\/Views\/DigitalAd.swift",
+      "filePath": "\/Users\/sridatta\/Documents\/GitHub\/PR1DigitalAd-Kroger-IOS\/PR1DigitalAdClassic\/PR1DigitalAdClassic\/Views\/DigitalAd.swift",
       "kind": "StringLiteral",
       "offset": 861,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/sridatta\/Desktop\/PR1\/Library\/git_lib_dev\/fw2\/fw\/PR1DALDemoApp\/PR1DigitalAdClassic\/PR1DigitalAdClassic\/Views\/DigitalAd.swift",
+      "filePath": "\/Users\/sridatta\/Documents\/GitHub\/PR1DigitalAd-Kroger-IOS\/PR1DigitalAdClassic\/PR1DigitalAdClassic\/Views\/DigitalAd.swift",
       "kind": "StringLiteral",
       "offset": 906,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/sridatta\/Desktop\/PR1\/Library\/git_lib_dev\/fw2\/fw\/PR1DALDemoApp\/PR1DigitalAdClassic\/PR1DigitalAdClassic\/Views\/DigitalAd.swift",
+      "filePath": "\/Users\/sridatta\/Documents\/GitHub\/PR1DigitalAd-Kroger-IOS\/PR1DigitalAdClassic\/PR1DigitalAdClassic\/Views\/DigitalAd.swift",
       "kind": "StringLiteral",
       "offset": 1237,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/sridatta\/Desktop\/PR1\/Library\/git_lib_dev\/fw2\/fw\/PR1DALDemoApp\/PR1DigitalAdClassic\/PR1DigitalAdClassic\/Views\/DigitalAd.swift",
+      "filePath": "\/Users\/sridatta\/Documents\/GitHub\/PR1DigitalAd-Kroger-IOS\/PR1DigitalAdClassic\/PR1DigitalAdClassic\/Views\/DigitalAd.swift",
       "kind": "StringLiteral",
       "offset": 1282,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/sridatta\/Desktop\/PR1\/Library\/git_lib_dev\/fw2\/fw\/PR1DALDemoApp\/PR1DigitalAdClassic\/PR1DigitalAdClassic\/Views\/DigitalAd.swift",
+      "filePath": "\/Users\/sridatta\/Documents\/GitHub\/PR1DigitalAd-Kroger-IOS\/PR1DigitalAdClassic\/PR1DigitalAdClassic\/Views\/DigitalAd.swift",
       "kind": "StringLiteral",
       "offset": 1333,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/sridatta\/Desktop\/PR1\/Library\/git_lib_dev\/fw2\/fw\/PR1DALDemoApp\/PR1DigitalAdClassic\/PR1DigitalAdClassic\/Views\/DigitalAd.swift",
+      "filePath": "\/Users\/sridatta\/Documents\/GitHub\/PR1DigitalAd-Kroger-IOS\/PR1DigitalAdClassic\/PR1DigitalAdClassic\/Views\/DigitalAd.swift",
       "kind": "Dictionary",
       "offset": 1487,
       "length": 3,
       "value": "[]"
     },
     {
-      "filePath": "\/Users\/sridatta\/Desktop\/PR1\/Library\/git_lib_dev\/fw2\/fw\/PR1DALDemoApp\/PR1DigitalAdClassic\/PR1DigitalAdClassic\/Views\/DigitalAd.swift",
+      "filePath": "\/Users\/sridatta\/Documents\/GitHub\/PR1DigitalAd-Kroger-IOS\/PR1DigitalAdClassic\/PR1DigitalAdClassic\/Views\/DigitalAd.swift",
       "kind": "StringLiteral",
       "offset": 674,
       "length": 9,
       "value": "\"PR1DigitalAdClassic.DigitalAd\""
     },
     {
-      "filePath": "\/Users\/sridatta\/Desktop\/PR1\/Library\/git_lib_dev\/fw2\/fw\/PR1DALDemoApp\/PR1DigitalAdClassic\/PR1DigitalAdClassic\/Views\/DigitalAd.swift",
+      "filePath": "\/Users\/sridatta\/Documents\/GitHub\/PR1DigitalAd-Kroger-IOS\/PR1DigitalAdClassic\/PR1DigitalAdClassic\/Views\/DigitalAd.swift",
       "kind": "StringLiteral",
       "offset": 674,
       "length": 9,
       "value": "\"PR1DigitalAdClassic.DigitalAd\""
     },
     {
-      "filePath": "\/Users\/sridatta\/Desktop\/PR1\/Library\/git_lib_dev\/fw2\/fw\/PR1DALDemoApp\/PR1DigitalAdClassic\/PR1DigitalAdClassic\/Models\/GetPageConfigModel.swift",
+      "filePath": "\/Users\/sridatta\/Documents\/GitHub\/PR1DigitalAd-Kroger-IOS\/PR1DigitalAdClassic\/PR1DigitalAdClassic\/Models\/GetPageConfigModel.swift",
       "kind": "StringLiteral",
       "offset": 1160,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/sridatta\/Desktop\/PR1\/Library\/git_lib_dev\/fw2\/fw\/PR1DALDemoApp\/PR1DigitalAdClassic\/PR1DigitalAdClassic\/Models\/GetPageConfigModel.swift",
+      "filePath": "\/Users\/sridatta\/Documents\/GitHub\/PR1DigitalAd-Kroger-IOS\/PR1DigitalAdClassic\/PR1DigitalAdClassic\/Models\/GetPageConfigModel.swift",
       "kind": "StringLiteral",
       "offset": 1203,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/sridatta\/Desktop\/PR1\/Library\/git_lib_dev\/fw2\/fw\/PR1DALDemoApp\/PR1DigitalAdClassic\/PR1DigitalAdClassic\/Models\/GetPageConfigModel.swift",
+      "filePath": "\/Users\/sridatta\/Documents\/GitHub\/PR1DigitalAd-Kroger-IOS\/PR1DigitalAdClassic\/PR1DigitalAdClassic\/Models\/GetPageConfigModel.swift",
       "kind": "StringLiteral",
       "offset": 1246,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/sridatta\/Desktop\/PR1\/Library\/git_lib_dev\/fw2\/fw\/PR1DALDemoApp\/PR1DigitalAdClassic\/PR1DigitalAdClassic\/Models\/GetPageConfigModel.swift",
+      "filePath": "\/Users\/sridatta\/Documents\/GitHub\/PR1DigitalAd-Kroger-IOS\/PR1DigitalAdClassic\/PR1DigitalAdClassic\/Models\/GetPageConfigModel.swift",
       "kind": "IntegerLiteral",
       "offset": 1528,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/sridatta\/Desktop\/PR1\/Library\/git_lib_dev\/fw2\/fw\/PR1DALDemoApp\/PR1DigitalAdClassic\/PR1DigitalAdClassic\/Models\/GetPageConfigModel.swift",
+      "filePath": "\/Users\/sridatta\/Documents\/GitHub\/PR1DigitalAd-Kroger-IOS\/PR1DigitalAdClassic\/PR1DigitalAdClassic\/Models\/GetPageConfigModel.swift",
       "kind": "IntegerLiteral",
       "offset": 1582,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/sridatta\/Desktop\/PR1\/Library\/git_lib_dev\/fw2\/fw\/PR1DALDemoApp\/PR1DigitalAdClassic\/PR1DigitalAdClassic\/Models\/GetPageConfigModel.swift",
+      "filePath": "\/Users\/sridatta\/Documents\/GitHub\/PR1DigitalAd-Kroger-IOS\/PR1DigitalAdClassic\/PR1DigitalAdClassic\/Models\/GetPageConfigModel.swift",
       "kind": "IntegerLiteral",
       "offset": 1636,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/sridatta\/Desktop\/PR1\/Library\/git_lib_dev\/fw2\/fw\/PR1DALDemoApp\/PR1DigitalAdClassic\/PR1DigitalAdClassic\/Models\/GetPageConfigModel.swift",
+      "filePath": "\/Users\/sridatta\/Documents\/GitHub\/PR1DigitalAd-Kroger-IOS\/PR1DigitalAdClassic\/PR1DigitalAdClassic\/Models\/GetPageConfigModel.swift",
       "kind": "StringLiteral",
       "offset": 1680,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/sridatta\/Desktop\/PR1\/Library\/git_lib_dev\/fw2\/fw\/PR1DALDemoApp\/PR1DigitalAdClassic\/PR1DigitalAdClassic\/Models\/GetPageConfigModel.swift",
+      "filePath": "\/Users\/sridatta\/Documents\/GitHub\/PR1DigitalAd-Kroger-IOS\/PR1DigitalAdClassic\/PR1DigitalAdClassic\/Models\/GetPageConfigModel.swift",
       "kind": "BooleanLiteral",
       "offset": 1725,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/sridatta\/Desktop\/PR1\/Library\/git_lib_dev\/fw2\/fw\/PR1DALDemoApp\/PR1DigitalAdClassic\/PR1DigitalAdClassic\/Models\/GetPageConfigModel.swift",
+      "filePath": "\/Users\/sridatta\/Documents\/GitHub\/PR1DigitalAd-Kroger-IOS\/PR1DigitalAdClassic\/PR1DigitalAdClassic\/Models\/GetPageConfigModel.swift",
       "kind": "BooleanLiteral",
       "offset": 1773,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/sridatta\/Desktop\/PR1\/Library\/git_lib_dev\/fw2\/fw\/PR1DALDemoApp\/PR1DigitalAdClassic\/PR1DigitalAdClassic\/Models\/GetPageConfigModel.swift",
+      "filePath": "\/Users\/sridatta\/Documents\/GitHub\/PR1DigitalAd-Kroger-IOS\/PR1DigitalAdClassic\/PR1DigitalAdClassic\/Models\/GetPageConfigModel.swift",
       "kind": "StringLiteral",
       "offset": 1917,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/sridatta\/Desktop\/PR1\/Library\/git_lib_dev\/fw2\/fw\/PR1DALDemoApp\/PR1DigitalAdClassic\/PR1DigitalAdClassic\/Models\/GetPageConfigModel.swift",
+      "filePath": "\/Users\/sridatta\/Documents\/GitHub\/PR1DigitalAd-Kroger-IOS\/PR1DigitalAdClassic\/PR1DigitalAdClassic\/Models\/GetPageConfigModel.swift",
       "kind": "StringLiteral",
       "offset": 2155,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/sridatta\/Desktop\/PR1\/Library\/git_lib_dev\/fw2\/fw\/PR1DALDemoApp\/PR1DigitalAdClassic\/PR1DigitalAdClassic\/Models\/GetPageConfigModel.swift",
+      "filePath": "\/Users\/sridatta\/Documents\/GitHub\/PR1DigitalAd-Kroger-IOS\/PR1DigitalAdClassic\/PR1DigitalAdClassic\/Models\/GetPageConfigModel.swift",
       "kind": "StringLiteral",
       "offset": 2206,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/sridatta\/Desktop\/PR1\/Library\/git_lib_dev\/fw2\/fw\/PR1DALDemoApp\/PR1DigitalAdClassic\/PR1DigitalAdClassic\/Models\/GetPageConfigModel.swift",
+      "filePath": "\/Users\/sridatta\/Documents\/GitHub\/PR1DigitalAd-Kroger-IOS\/PR1DigitalAdClassic\/PR1DigitalAdClassic\/Models\/GetPageConfigModel.swift",
       "kind": "StringLiteral",
       "offset": 2309,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/sridatta\/Desktop\/PR1\/Library\/git_lib_dev\/fw2\/fw\/PR1DALDemoApp\/PR1DigitalAdClassic\/PR1DigitalAdClassic\/Models\/GetPageConfigModel.swift",
+      "filePath": "\/Users\/sridatta\/Documents\/GitHub\/PR1DigitalAd-Kroger-IOS\/PR1DigitalAdClassic\/PR1DigitalAdClassic\/Models\/GetPageConfigModel.swift",
       "kind": "StringLiteral",
       "offset": 2450,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/sridatta\/Desktop\/PR1\/Library\/git_lib_dev\/fw2\/fw\/PR1DALDemoApp\/PR1DigitalAdClassic\/PR1DigitalAdClassic\/Models\/GetPageConfigModel.swift",
+      "filePath": "\/Users\/sridatta\/Documents\/GitHub\/PR1DigitalAd-Kroger-IOS\/PR1DigitalAdClassic\/PR1DigitalAdClassic\/Models\/GetPageConfigModel.swift",
       "kind": "StringLiteral",
       "offset": 2501,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/sridatta\/Desktop\/PR1\/Library\/git_lib_dev\/fw2\/fw\/PR1DALDemoApp\/PR1DigitalAdClassic\/PR1DigitalAdClassic\/Models\/GetPageConfigModel.swift",
+      "filePath": "\/Users\/sridatta\/Documents\/GitHub\/PR1DigitalAd-Kroger-IOS\/PR1DigitalAdClassic\/PR1DigitalAdClassic\/Models\/GetPageConfigModel.swift",
       "kind": "StringLiteral",
       "offset": 2583,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/sridatta\/Desktop\/PR1\/Library\/git_lib_dev\/fw2\/fw\/PR1DALDemoApp\/PR1DigitalAdClassic\/PR1DigitalAdClassic\/Models\/GetPageConfigModel.swift",
+      "filePath": "\/Users\/sridatta\/Documents\/GitHub\/PR1DigitalAd-Kroger-IOS\/PR1DigitalAdClassic\/PR1DigitalAdClassic\/Models\/GetPageConfigModel.swift",
       "kind": "StringLiteral",
       "offset": 2634,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/sridatta\/Desktop\/PR1\/Library\/git_lib_dev\/fw2\/fw\/PR1DALDemoApp\/PR1DigitalAdClassic\/PR1DigitalAdClassic\/Models\/GetPageConfigModel.swift",
+      "filePath": "\/Users\/sridatta\/Documents\/GitHub\/PR1DigitalAd-Kroger-IOS\/PR1DigitalAdClassic\/PR1DigitalAdClassic\/Models\/GetPageConfigModel.swift",
       "kind": "StringLiteral",
       "offset": 2685,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/sridatta\/Desktop\/PR1\/Library\/git_lib_dev\/fw2\/fw\/PR1DALDemoApp\/PR1DigitalAdClassic\/PR1DigitalAdClassic\/Singletons\/Logger.swift",
+      "filePath": "\/Users\/sridatta\/Documents\/GitHub\/PR1DigitalAd-Kroger-IOS\/PR1DigitalAdClassic\/PR1DigitalAdClassic\/Singletons\/Logger.swift",
       "kind": "StringLiteral",
       "offset": 190,
       "length": 5,
       "value": "\"BUG\""
     },
     {
-      "filePath": "\/Users\/sridatta\/Desktop\/PR1\/Library\/git_lib_dev\/fw2\/fw\/PR1DALDemoApp\/PR1DigitalAdClassic\/PR1DigitalAdClassic\/Singletons\/Logger.swift",
+      "filePath": "\/Users\/sridatta\/Documents\/GitHub\/PR1DigitalAd-Kroger-IOS\/PR1DigitalAdClassic\/PR1DigitalAdClassic\/Singletons\/Logger.swift",
       "kind": "StringLiteral",
       "offset": 216,
       "length": 6,
       "value": "\"INFO\""
     },
     {
-      "filePath": "\/Users\/sridatta\/Desktop\/PR1\/Library\/git_lib_dev\/fw2\/fw\/PR1DALDemoApp\/PR1DigitalAdClassic\/PR1DigitalAdClassic\/Singletons\/Logger.swift",
+      "filePath": "\/Users\/sridatta\/Documents\/GitHub\/PR1DigitalAd-Kroger-IOS\/PR1DigitalAdClassic\/PR1DigitalAdClassic\/Singletons\/Logger.swift",
       "kind": "StringLiteral",
       "offset": 246,
       "length": 9,
       "value": "\"WARNING\""
     },
     {
-      "filePath": "\/Users\/sridatta\/Desktop\/PR1\/Library\/git_lib_dev\/fw2\/fw\/PR1DALDemoApp\/PR1DigitalAdClassic\/PR1DigitalAdClassic\/Singletons\/Logger.swift",
+      "filePath": "\/Users\/sridatta\/Documents\/GitHub\/PR1DigitalAd-Kroger-IOS\/PR1DigitalAdClassic\/PR1DigitalAdClassic\/Singletons\/Logger.swift",
       "kind": "StringLiteral",
       "offset": 277,
       "length": 7,
       "value": "\"ERROR\""
     },
     {
-      "filePath": "\/Users\/sridatta\/Desktop\/PR1\/Library\/git_lib_dev\/fw2\/fw\/PR1DALDemoApp\/PR1DigitalAdClassic\/PR1DigitalAdClassic\/Singletons\/Logger.swift",
+      "filePath": "\/Users\/sridatta\/Documents\/GitHub\/PR1DigitalAd-Kroger-IOS\/PR1DigitalAdClassic\/PR1DigitalAdClassic\/Singletons\/Logger.swift",
       "kind": "StringLiteral",
       "offset": 308,
       "length": 9,
       "value": "\"SUCCESS\""
     },
     {
-      "filePath": "\/Users\/sridatta\/Desktop\/PR1\/Library\/git_lib_dev\/fw2\/fw\/PR1DALDemoApp\/PR1DigitalAdClassic\/PR1DigitalAdClassic\/Singletons\/Logger.swift",
+      "filePath": "\/Users\/sridatta\/Documents\/GitHub\/PR1DigitalAd-Kroger-IOS\/PR1DigitalAdClassic\/PR1DigitalAdClassic\/Singletons\/Logger.swift",
       "kind": "StringLiteral",
       "offset": 341,
       "length": 9,
       "value": "\"FAILURE\""
     },
     {
-      "filePath": "\/Users\/sridatta\/Desktop\/PR1\/Library\/git_lib_dev\/fw2\/fw\/PR1DALDemoApp\/PR1DigitalAdClassic\/PR1DigitalAdClassic\/Singletons\/Logger.swift",
+      "filePath": "\/Users\/sridatta\/Documents\/GitHub\/PR1DigitalAd-Kroger-IOS\/PR1DigitalAdClassic\/PR1DigitalAdClassic\/Singletons\/Logger.swift",
       "kind": "StringLiteral",
       "offset": 375,
       "length": 10,
       "value": "\"DOWNLOAD\""
     },
     {
-      "filePath": "\/Users\/sridatta\/Desktop\/PR1\/Library\/git_lib_dev\/fw2\/fw\/PR1DALDemoApp\/PR1DigitalAdClassic\/PR1DigitalAdClassic\/Singletons\/Logger.swift",
+      "filePath": "\/Users\/sridatta\/Documents\/GitHub\/PR1DigitalAd-Kroger-IOS\/PR1DigitalAdClassic\/PR1DigitalAdClassic\/Singletons\/Logger.swift",
       "kind": "StringLiteral",
       "offset": 418,
       "length": 19,
       "value": "\"DOWNLOAD_COMPLETE\""
     },
     {
-      "filePath": "\/Users\/sridatta\/Desktop\/PR1\/Library\/git_lib_dev\/fw2\/fw\/PR1DALDemoApp\/PR1DigitalAdClassic\/PR1DigitalAdClassic\/Singletons\/Logger.swift",
+      "filePath": "\/Users\/sridatta\/Documents\/GitHub\/PR1DigitalAd-Kroger-IOS\/PR1DigitalAdClassic\/PR1DigitalAdClassic\/Singletons\/Logger.swift",
       "kind": "StringLiteral",
       "offset": 459,
       "length": 7,
       "value": "\"ALERT\""
     },
     {
-      "filePath": "\/Users\/sridatta\/Desktop\/PR1\/Library\/git_lib_dev\/fw2\/fw\/PR1DALDemoApp\/PR1DigitalAdClassic\/PR1DigitalAdClassic\/Singletons\/Logger.swift",
+      "filePath": "\/Users\/sridatta\/Documents\/GitHub\/PR1DigitalAd-Kroger-IOS\/PR1DigitalAdClassic\/PR1DigitalAdClassic\/Singletons\/Logger.swift",
       "kind": "StringLiteral",
       "offset": 486,
       "length": 5,
       "value": "\"API\""
     },
     {
-      "filePath": "\/Users\/sridatta\/Desktop\/PR1\/Library\/git_lib_dev\/fw2\/fw\/PR1DALDemoApp\/PR1DigitalAdClassic\/PR1DigitalAdClassic\/Singletons\/Logger.swift",
+      "filePath": "\/Users\/sridatta\/Documents\/GitHub\/PR1DigitalAd-Kroger-IOS\/PR1DigitalAdClassic\/PR1DigitalAdClassic\/Singletons\/Logger.swift",
       "kind": "StringLiteral",
       "offset": 513,
       "length": 7,
       "value": "\"OFFER\""
     },
     {
-      "filePath": "\/Users\/sridatta\/Desktop\/PR1\/Library\/git_lib_dev\/fw2\/fw\/PR1DALDemoApp\/PR1DigitalAdClassic\/PR1DigitalAdClassic\/Singletons\/Logger.swift",
+      "filePath": "\/Users\/sridatta\/Documents\/GitHub\/PR1DigitalAd-Kroger-IOS\/PR1DigitalAdClassic\/PR1DigitalAdClassic\/Singletons\/Logger.swift",
       "kind": "StringLiteral",
       "offset": 542,
       "length": 7,
       "value": "\"PROMO\""
     },
     {
-      "filePath": "\/Users\/sridatta\/Desktop\/PR1\/Library\/git_lib_dev\/fw2\/fw\/PR1DALDemoApp\/PR1DigitalAdClassic\/PR1DigitalAdClassic\/Singletons\/Logger.swift",
+      "filePath": "\/Users\/sridatta\/Documents\/GitHub\/PR1DigitalAd-Kroger-IOS\/PR1DigitalAdClassic\/PR1DigitalAdClassic\/Singletons\/Logger.swift",
       "kind": "StringLiteral",
       "offset": 572,
       "length": 8,
       "value": "\"LOADER\""
     },
     {
-      "filePath": "\/Users\/sridatta\/Desktop\/PR1\/Library\/git_lib_dev\/fw2\/fw\/PR1DALDemoApp\/PR1DigitalAdClassic\/PR1DigitalAdClassic\/Singletons\/Logger.swift",
+      "filePath": "\/Users\/sridatta\/Documents\/GitHub\/PR1DigitalAd-Kroger-IOS\/PR1DigitalAdClassic\/PR1DigitalAdClassic\/Singletons\/Logger.swift",
       "kind": "StringLiteral",
       "offset": 604,
       "length": 9,
       "value": "\"HOTSPOT\""
     },
     {
-      "filePath": "\/Users\/sridatta\/Desktop\/PR1\/Library\/git_lib_dev\/fw2\/fw\/PR1DALDemoApp\/PR1DigitalAdClassic\/PR1DigitalAdClassic\/Singletons\/Logger.swift",
+      "filePath": "\/Users\/sridatta\/Documents\/GitHub\/PR1DigitalAd-Kroger-IOS\/PR1DigitalAdClassic\/PR1DigitalAdClassic\/Singletons\/Logger.swift",
       "kind": "StringLiteral",
       "offset": 640,
       "length": 13,
       "value": "\"HOTSPOT_TAP\""
     },
     {
-      "filePath": "\/Users\/sridatta\/Desktop\/PR1\/Library\/git_lib_dev\/fw2\/fw\/PR1DALDemoApp\/PR1DigitalAdClassic\/PR1DigitalAdClassic\/Singletons\/Logger.swift",
+      "filePath": "\/Users\/sridatta\/Documents\/GitHub\/PR1DigitalAd-Kroger-IOS\/PR1DigitalAdClassic\/PR1DigitalAdClassic\/Singletons\/Logger.swift",
       "kind": "StringLiteral",
       "offset": 190,
       "length": 5,
       "value": "\"BUG\""
     },
     {
-      "filePath": "\/Users\/sridatta\/Desktop\/PR1\/Library\/git_lib_dev\/fw2\/fw\/PR1DALDemoApp\/PR1DigitalAdClassic\/PR1DigitalAdClassic\/Singletons\/Logger.swift",
+      "filePath": "\/Users\/sridatta\/Documents\/GitHub\/PR1DigitalAd-Kroger-IOS\/PR1DigitalAdClassic\/PR1DigitalAdClassic\/Singletons\/Logger.swift",
       "kind": "StringLiteral",
       "offset": 216,
       "length": 6,
       "value": "\"INFO\""
     },
     {
-      "filePath": "\/Users\/sridatta\/Desktop\/PR1\/Library\/git_lib_dev\/fw2\/fw\/PR1DALDemoApp\/PR1DigitalAdClassic\/PR1DigitalAdClassic\/Singletons\/Logger.swift",
+      "filePath": "\/Users\/sridatta\/Documents\/GitHub\/PR1DigitalAd-Kroger-IOS\/PR1DigitalAdClassic\/PR1DigitalAdClassic\/Singletons\/Logger.swift",
       "kind": "StringLiteral",
       "offset": 246,
       "length": 9,
       "value": "\"WARNING\""
     },
     {
-      "filePath": "\/Users\/sridatta\/Desktop\/PR1\/Library\/git_lib_dev\/fw2\/fw\/PR1DALDemoApp\/PR1DigitalAdClassic\/PR1DigitalAdClassic\/Singletons\/Logger.swift",
+      "filePath": "\/Users\/sridatta\/Documents\/GitHub\/PR1DigitalAd-Kroger-IOS\/PR1DigitalAdClassic\/PR1DigitalAdClassic\/Singletons\/Logger.swift",
       "kind": "StringLiteral",
       "offset": 277,
       "length": 7,
       "value": "\"ERROR\""
     },
     {
-      "filePath": "\/Users\/sridatta\/Desktop\/PR1\/Library\/git_lib_dev\/fw2\/fw\/PR1DALDemoApp\/PR1DigitalAdClassic\/PR1DigitalAdClassic\/Singletons\/Logger.swift",
+      "filePath": "\/Users\/sridatta\/Documents\/GitHub\/PR1DigitalAd-Kroger-IOS\/PR1DigitalAdClassic\/PR1DigitalAdClassic\/Singletons\/Logger.swift",
       "kind": "StringLiteral",
       "offset": 308,
       "length": 9,
       "value": "\"SUCCESS\""
     },
     {
-      "filePath": "\/Users\/sridatta\/Desktop\/PR1\/Library\/git_lib_dev\/fw2\/fw\/PR1DALDemoApp\/PR1DigitalAdClassic\/PR1DigitalAdClassic\/Singletons\/Logger.swift",
+      "filePath": "\/Users\/sridatta\/Documents\/GitHub\/PR1DigitalAd-Kroger-IOS\/PR1DigitalAdClassic\/PR1DigitalAdClassic\/Singletons\/Logger.swift",
       "kind": "StringLiteral",
       "offset": 341,
       "length": 9,
       "value": "\"FAILURE\""
     },
     {
-      "filePath": "\/Users\/sridatta\/Desktop\/PR1\/Library\/git_lib_dev\/fw2\/fw\/PR1DALDemoApp\/PR1DigitalAdClassic\/PR1DigitalAdClassic\/Singletons\/Logger.swift",
+      "filePath": "\/Users\/sridatta\/Documents\/GitHub\/PR1DigitalAd-Kroger-IOS\/PR1DigitalAdClassic\/PR1DigitalAdClassic\/Singletons\/Logger.swift",
       "kind": "StringLiteral",
       "offset": 375,
       "length": 10,
       "value": "\"DOWNLOAD\""
     },
     {
-      "filePath": "\/Users\/sridatta\/Desktop\/PR1\/Library\/git_lib_dev\/fw2\/fw\/PR1DALDemoApp\/PR1DigitalAdClassic\/PR1DigitalAdClassic\/Singletons\/Logger.swift",
+      "filePath": "\/Users\/sridatta\/Documents\/GitHub\/PR1DigitalAd-Kroger-IOS\/PR1DigitalAdClassic\/PR1DigitalAdClassic\/Singletons\/Logger.swift",
       "kind": "StringLiteral",
       "offset": 418,
       "length": 19,
       "value": "\"DOWNLOAD_COMPLETE\""
     },
     {
-      "filePath": "\/Users\/sridatta\/Desktop\/PR1\/Library\/git_lib_dev\/fw2\/fw\/PR1DALDemoApp\/PR1DigitalAdClassic\/PR1DigitalAdClassic\/Singletons\/Logger.swift",
+      "filePath": "\/Users\/sridatta\/Documents\/GitHub\/PR1DigitalAd-Kroger-IOS\/PR1DigitalAdClassic\/PR1DigitalAdClassic\/Singletons\/Logger.swift",
       "kind": "StringLiteral",
       "offset": 459,
       "length": 7,
       "value": "\"ALERT\""
     },
     {
-      "filePath": "\/Users\/sridatta\/Desktop\/PR1\/Library\/git_lib_dev\/fw2\/fw\/PR1DALDemoApp\/PR1DigitalAdClassic\/PR1DigitalAdClassic\/Singletons\/Logger.swift",
+      "filePath": "\/Users\/sridatta\/Documents\/GitHub\/PR1DigitalAd-Kroger-IOS\/PR1DigitalAdClassic\/PR1DigitalAdClassic\/Singletons\/Logger.swift",
       "kind": "StringLiteral",
       "offset": 486,
       "length": 5,
       "value": "\"API\""
     },
     {
-      "filePath": "\/Users\/sridatta\/Desktop\/PR1\/Library\/git_lib_dev\/fw2\/fw\/PR1DALDemoApp\/PR1DigitalAdClassic\/PR1DigitalAdClassic\/Singletons\/Logger.swift",
+      "filePath": "\/Users\/sridatta\/Documents\/GitHub\/PR1DigitalAd-Kroger-IOS\/PR1DigitalAdClassic\/PR1DigitalAdClassic\/Singletons\/Logger.swift",
       "kind": "StringLiteral",
       "offset": 513,
       "length": 7,
       "value": "\"OFFER\""
     },
     {
-      "filePath": "\/Users\/sridatta\/Desktop\/PR1\/Library\/git_lib_dev\/fw2\/fw\/PR1DALDemoApp\/PR1DigitalAdClassic\/PR1DigitalAdClassic\/Singletons\/Logger.swift",
+      "filePath": "\/Users\/sridatta\/Documents\/GitHub\/PR1DigitalAd-Kroger-IOS\/PR1DigitalAdClassic\/PR1DigitalAdClassic\/Singletons\/Logger.swift",
       "kind": "StringLiteral",
       "offset": 542,
       "length": 7,
       "value": "\"PROMO\""
     },
     {
-      "filePath": "\/Users\/sridatta\/Desktop\/PR1\/Library\/git_lib_dev\/fw2\/fw\/PR1DALDemoApp\/PR1DigitalAdClassic\/PR1DigitalAdClassic\/Singletons\/Logger.swift",
+      "filePath": "\/Users\/sridatta\/Documents\/GitHub\/PR1DigitalAd-Kroger-IOS\/PR1DigitalAdClassic\/PR1DigitalAdClassic\/Singletons\/Logger.swift",
       "kind": "StringLiteral",
       "offset": 572,
       "length": 8,
       "value": "\"LOADER\""
     },
     {
-      "filePath": "\/Users\/sridatta\/Desktop\/PR1\/Library\/git_lib_dev\/fw2\/fw\/PR1DALDemoApp\/PR1DigitalAdClassic\/PR1DigitalAdClassic\/Singletons\/Logger.swift",
+      "filePath": "\/Users\/sridatta\/Documents\/GitHub\/PR1DigitalAd-Kroger-IOS\/PR1DigitalAdClassic\/PR1DigitalAdClassic\/Singletons\/Logger.swift",
       "kind": "StringLiteral",
       "offset": 604,
       "length": 9,
       "value": "\"HOTSPOT\""
     },
     {
-      "filePath": "\/Users\/sridatta\/Desktop\/PR1\/Library\/git_lib_dev\/fw2\/fw\/PR1DALDemoApp\/PR1DigitalAdClassic\/PR1DigitalAdClassic\/Singletons\/Logger.swift",
+      "filePath": "\/Users\/sridatta\/Documents\/GitHub\/PR1DigitalAd-Kroger-IOS\/PR1DigitalAdClassic\/PR1DigitalAdClassic\/Singletons\/Logger.swift",
       "kind": "StringLiteral",
       "offset": 640,
       "length": 13,
       "value": "\"HOTSPOT_TAP\""
     },
     {
-      "filePath": "\/Users\/sridatta\/Desktop\/PR1\/Library\/git_lib_dev\/fw2\/fw\/PR1DALDemoApp\/PR1DigitalAdClassic\/PR1DigitalAdClassic\/Singletons\/Logger.swift",
+      "filePath": "\/Users\/sridatta\/Documents\/GitHub\/PR1DigitalAd-Kroger-IOS\/PR1DigitalAdClassic\/PR1DigitalAdClassic\/Singletons\/Logger.swift",
       "kind": "BooleanLiteral",
       "offset": 709,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/sridatta\/Desktop\/PR1\/Library\/git_lib_dev\/fw2\/fw\/PR1DALDemoApp\/PR1DigitalAdClassic\/PR1DigitalAdClassic\/Constants\/Constants.swift",
+      "filePath": "\/Users\/sridatta\/Documents\/GitHub\/PR1DigitalAd-Kroger-IOS\/PR1DigitalAdClassic\/PR1DigitalAdClassic\/Constants\/Constants.swift",
       "kind": "StringLiteral",
       "offset": 147,
       "length": 7,
-      "value": "\"0.0.7\""
+      "value": "\"0.0.8\""
     },
     {
-      "filePath": "\/Users\/sridatta\/Desktop\/PR1\/Library\/git_lib_dev\/fw2\/fw\/PR1DALDemoApp\/PR1DigitalAdClassic\/PR1DigitalAdClassic\/Models\/HotSpotsData.swift",
+      "filePath": "\/Users\/sridatta\/Documents\/GitHub\/PR1DigitalAd-Kroger-IOS\/PR1DigitalAdClassic\/PR1DigitalAdClassic\/Models\/HotSpotsData.swift",
       "kind": "StringLiteral",
       "offset": 525,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/sridatta\/Desktop\/PR1\/Library\/git_lib_dev\/fw2\/fw\/PR1DALDemoApp\/PR1DigitalAdClassic\/PR1DigitalAdClassic\/Models\/HotSpotsData.swift",
+      "filePath": "\/Users\/sridatta\/Documents\/GitHub\/PR1DigitalAd-Kroger-IOS\/PR1DigitalAdClassic\/PR1DigitalAdClassic\/Models\/HotSpotsData.swift",
       "kind": "StringLiteral",
       "offset": 576,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/sridatta\/Desktop\/PR1\/Library\/git_lib_dev\/fw2\/fw\/PR1DALDemoApp\/PR1DigitalAdClassic\/PR1DigitalAdClassic\/Models\/HotSpotsData.swift",
+      "filePath": "\/Users\/sridatta\/Documents\/GitHub\/PR1DigitalAd-Kroger-IOS\/PR1DigitalAdClassic\/PR1DigitalAdClassic\/Models\/HotSpotsData.swift",
       "kind": "StringLiteral",
       "offset": 701,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/sridatta\/Desktop\/PR1\/Library\/git_lib_dev\/fw2\/fw\/PR1DALDemoApp\/PR1DigitalAdClassic\/PR1DigitalAdClassic\/Models\/HotSpotsData.swift",
+      "filePath": "\/Users\/sridatta\/Documents\/GitHub\/PR1DigitalAd-Kroger-IOS\/PR1DigitalAdClassic\/PR1DigitalAdClassic\/Models\/HotSpotsData.swift",
       "kind": "StringLiteral",
       "offset": 752,
       "length": 2,

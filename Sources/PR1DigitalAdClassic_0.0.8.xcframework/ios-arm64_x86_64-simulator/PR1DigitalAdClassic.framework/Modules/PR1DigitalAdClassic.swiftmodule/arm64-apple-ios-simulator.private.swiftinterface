@@ -1,6 +1,6 @@
 // swift-interface-format-version: 1.0
 // swift-compiler-version: Apple Swift version 5.10 (swiftlang-5.10.0.13 clang-1500.3.9.4)
-// swift-module-flags: -target x86_64-apple-ios13.0-simulator -enable-objc-interop -enable-library-evolution -swift-version 5 -enforce-exclusivity=checked -Onone -enable-bare-slash-regex -module-name PR1DigitalAdClassic
+// swift-module-flags: -target arm64-apple-ios13.0-simulator -enable-objc-interop -enable-library-evolution -swift-version 5 -enforce-exclusivity=checked -Onone -enable-bare-slash-regex -module-name PR1DigitalAdClassic
 import Foundation
 @_exported import PR1DigitalAdClassic
 import Swift
@@ -22,10 +22,10 @@ public protocol OfferDelegate : AnyObject {
 }
 @objc @_hasMissingDesignatedInitializers @_Concurrency.MainActor(unsafe) public class DigitalAd : UIKit.UITableViewController {
   @_Concurrency.MainActor(unsafe) public var hostingViewController: UIKit.UIViewController?
+  @_Concurrency.MainActor(unsafe) weak public var delegate: (any PR1DigitalAdClassic.OfferDelegate)?
   @_Concurrency.MainActor(unsafe) @objc dynamic public init()
   @_Concurrency.MainActor(unsafe) public init(_ parentViewController: UIKit.UIViewController, containerView: UIKit.UIView, adId: Swift.String, location: Swift.String, apiKey: Swift.String, apiEnv: PR1DigitalAdClassic.Environment)
   @objc deinit
-  @_Concurrency.MainActor(unsafe) weak public var delegate: (any PR1DigitalAdClassic.OfferDelegate)?
   @_Concurrency.MainActor(unsafe) @objc override dynamic public func viewDidLoad()
   @_Concurrency.MainActor(unsafe) @objc override dynamic public func viewWillAppear(_ animated: Swift.Bool)
   @_Concurrency.MainActor(unsafe) @objc override dynamic public func viewWillDisappear(_ animated: Swift.Bool)

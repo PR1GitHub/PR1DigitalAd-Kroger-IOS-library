@@ -22,10 +22,10 @@ public protocol OfferDelegate : AnyObject {
 }
 @objc @_hasMissingDesignatedInitializers @_Concurrency.MainActor(unsafe) public class DigitalAd : UIKit.UITableViewController {
   @_Concurrency.MainActor(unsafe) public var hostingViewController: UIKit.UIViewController?
+  @_Concurrency.MainActor(unsafe) weak public var delegate: (any PR1DigitalAdClassic.OfferDelegate)?
   @_Concurrency.MainActor(unsafe) @objc dynamic public init()
   @_Concurrency.MainActor(unsafe) public init(_ parentViewController: UIKit.UIViewController, containerView: UIKit.UIView, adId: Swift.String, location: Swift.String, apiKey: Swift.String, apiEnv: PR1DigitalAdClassic.Environment)
   @objc deinit
-  @_Concurrency.MainActor(unsafe) weak public var delegate: (any PR1DigitalAdClassic.OfferDelegate)?
   @_Concurrency.MainActor(unsafe) @objc override dynamic public func viewDidLoad()
   @_Concurrency.MainActor(unsafe) @objc override dynamic public func viewWillAppear(_ animated: Swift.Bool)
   @_Concurrency.MainActor(unsafe) @objc override dynamic public func viewWillDisappear(_ animated: Swift.Bool)
