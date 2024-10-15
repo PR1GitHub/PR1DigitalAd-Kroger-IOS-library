@@ -1,10 +1,6 @@
-# PR1DigitalAd-Kroger-IOS-library
+# PR1DigitalAd-Kroger-IOS-library : v0.0.8
 
-PR1DigitalAd Classic iOS Framework Integration![](Aspose.Words.f88fe3e7-cb99-40d6-9674-7f8958e771cd.001.png)
-
-**[ Current SDK Version : 0.0.8 ]**
-
-Adding Swift Package
+**Adding Swift Package**
 
 To integrate the PR Digital Ad Classic library into iOS app, follow these steps:
 
