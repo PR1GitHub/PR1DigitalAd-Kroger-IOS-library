@@ -18,15 +18,15 @@
 		</data>
 		<key>Modules/PR1DigitalAdClassic.swiftmodule/Project/arm64-apple-ios-simulator.swiftsourceinfo</key>
 		<data>
-		cYTyjEaH42nodqQ6By6sLnp3EtI=
+		cII5tyXeCat5iG+ajNo6+nr/iAw=
 		</data>
 		<key>Modules/PR1DigitalAdClassic.swiftmodule/Project/x86_64-apple-ios-simulator.swiftsourceinfo</key>
 		<data>
-		P2T47id6w0ktecajXj6PbBClfb8=
+		W4CFphSkZc8Brj0evbBF3dqN9/c=
 		</data>
 		<key>Modules/PR1DigitalAdClassic.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		SFJbSbwPk4kfqmD6qCuBCgNOTgQ=
+		bbJ/5PTgV+byaviF79ZS3/UEuaI=
 		</data>
 		<key>Modules/PR1DigitalAdClassic.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
@@ -42,11 +42,11 @@
 		</data>
 		<key>Modules/PR1DigitalAdClassic.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		b2TfY4wDT0LrWTjGB4HK9FBwhoc=
+		DVBm+H+ezqoW1mMya4Nna5wbXQk=
 		</data>
 		<key>Modules/PR1DigitalAdClassic.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		SFJbSbwPk4kfqmD6qCuBCgNOTgQ=
+		bbJ/5PTgV+byaviF79ZS3/UEuaI=
 		</data>
 		<key>Modules/PR1DigitalAdClassic.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
@@ -62,7 +62,7 @@
 		</data>
 		<key>Modules/PR1DigitalAdClassic.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		Re5M9/Un2Zgi0pBKlrIIJyciPBU=
+		0NCH2EX5rLFld7fUQJmUXjbwEew=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -93,21 +93,21 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			t/Pruv3fNaBgM+5jStyO3P5+4cjBYhAdGMfKNgjb2FE=
+			rayhljFQb6UPF/kpcHaFNsMcsfRWdeDtWNljQTNW3d4=
 			</data>
 		</dict>
 		<key>Modules/PR1DigitalAdClassic.swiftmodule/Project/x86_64-apple-ios-simulator.swiftsourceinfo</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			YpFWSA8tlHQV4jZoorPXjE41LqnhJKj2yscnT7IvUyU=
+			PSRE/R9n0N14nYydNH0jmnPdykjPAw7mdnl6CMcQKLk=
 			</data>
 		</dict>
 		<key>Modules/PR1DigitalAdClassic.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			fV3v1jVc6zw2ur3vI2wm7hNMuptBNk4EzoTeTGH6g7c=
+			mCCqJzbqAD8P9suWH6pcfqMPbDn2qgnQyrrZSyvEhSo=
 			</data>
 		</dict>
 		<key>Modules/PR1DigitalAdClassic.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
@@ -135,14 +135,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			kzW6yxrQ45rbc05OuYGdLs2HswdcvhJQIga8sSLbH6s=
+			00GIyt8qW9rWy1C9+hcM1pXwDD/qbdIXgo+XgTVlgdk=
 			</data>
 		</dict>
 		<key>Modules/PR1DigitalAdClassic.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			fV3v1jVc6zw2ur3vI2wm7hNMuptBNk4EzoTeTGH6g7c=
+			mCCqJzbqAD8P9suWH6pcfqMPbDn2qgnQyrrZSyvEhSo=
 			</data>
 		</dict>
 		<key>Modules/PR1DigitalAdClassic.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
@@ -170,7 +170,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			zFcJ5CUbZDwNt7MxETdF17ywHOHhq9c4xl2Bw7RmQ9w=
+			pEVVWfSNc3Wv5cvxmxodbL9VqIawSRwqQeOpa2jL0rA=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
