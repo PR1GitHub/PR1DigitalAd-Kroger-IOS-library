@@ -18,11 +18,11 @@
 		</data>
 		<key>Modules/PR1DigitalAdClassic.swiftmodule/Project/arm64-apple-ios.swiftsourceinfo</key>
 		<data>
-		lPMM5/p3/5JW0MYfu0rF/sehbkc=
+		rhKkHWnviUCqSucnYHVjOxxnL6k=
 		</data>
 		<key>Modules/PR1DigitalAdClassic.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
-		bbJ/5PTgV+byaviF79ZS3/UEuaI=
+		57PWzxsmr7FkeSeK9CydLgsowyg=
 		</data>
 		<key>Modules/PR1DigitalAdClassic.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<data>
@@ -38,7 +38,7 @@
 		</data>
 		<key>Modules/PR1DigitalAdClassic.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		iHXobTA4iqH/Xq4V9Z0Qi9qV0cE=
+		VaOgIm2+ahlIQsbVzqx1ARmdpsM=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -69,14 +69,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			+3AFYgBC1Cnczh+vUnkvHJ5fy47Lw+7p/fmOURyGu70=
+			4x8ePtoRbYGbPyoXyDy0LPpTqgKUuNw6jibw+VZr6NU=
 			</data>
 		</dict>
 		<key>Modules/PR1DigitalAdClassic.swiftmodule/arm64-apple-ios.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			mCCqJzbqAD8P9suWH6pcfqMPbDn2qgnQyrrZSyvEhSo=
+			qL6dKndWok5jxjWgLfE14X3M1TxWgZkNkWjYrVELmUk=
 			</data>
 		</dict>
 		<key>Modules/PR1DigitalAdClassic.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
@@ -104,7 +104,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			xZDHi8bEQI4viC13Jx+tRv7qlCOrPeNwCX6vb4PJJcg=
+			QXbiBagPLM8rpwHum8GkUg+aqno9vC/Xflyceyvnwi0=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

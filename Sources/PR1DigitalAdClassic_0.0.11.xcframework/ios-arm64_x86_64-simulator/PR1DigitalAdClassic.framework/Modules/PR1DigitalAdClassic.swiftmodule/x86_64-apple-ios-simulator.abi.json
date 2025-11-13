@@ -11060,6 +11060,125 @@
           },
           {
             "kind": "Var",
+            "name": "webURL",
+            "printedName": "webURL",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.String?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:19PR1DigitalAdClassic32PageOfferDetailsModelApiResponseV6webURLSSSgvp",
+            "mangledName": "$s19PR1DigitalAdClassic32PageOfferDetailsModelApiResponseV6webURLSSSgvp",
+            "moduleName": "PR1DigitalAdClassic",
+            "declAttributes": [
+              "HasInitialValue",
+              "HasStorage"
+            ],
+            "fixedbinaryorder": 13,
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "Swift.String?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "String",
+                        "printedName": "Swift.String",
+                        "usr": "s:SS"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:19PR1DigitalAdClassic32PageOfferDetailsModelApiResponseV6webURLSSSgvg",
+                "mangledName": "$s19PR1DigitalAdClassic32PageOfferDetailsModelApiResponseV6webURLSSSgvg",
+                "moduleName": "PR1DigitalAdClassic",
+                "implicit": true,
+                "declAttributes": [
+                  "Transparent"
+                ],
+                "accessorKind": "get"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Set",
+                "printedName": "Set()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "Swift.String?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "String",
+                        "printedName": "Swift.String",
+                        "usr": "s:SS"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:19PR1DigitalAdClassic32PageOfferDetailsModelApiResponseV6webURLSSSgvs",
+                "mangledName": "$s19PR1DigitalAdClassic32PageOfferDetailsModelApiResponseV6webURLSSSgvs",
+                "moduleName": "PR1DigitalAdClassic",
+                "implicit": true,
+                "declAttributes": [
+                  "Transparent"
+                ],
+                "accessorKind": "set"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Modify",
+                "printedName": "Modify()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:19PR1DigitalAdClassic32PageOfferDetailsModelApiResponseV6webURLSSSgvM",
+                "mangledName": "$s19PR1DigitalAdClassic32PageOfferDetailsModelApiResponseV6webURLSSSgvM",
+                "moduleName": "PR1DigitalAdClassic",
+                "implicit": true,
+                "declAttributes": [
+                  "Transparent"
+                ],
+                "accessorKind": "_modify"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
             "name": "appUrl",
             "printedName": "appUrl",
             "children": [
@@ -11086,7 +11205,7 @@
               "HasInitialValue",
               "HasStorage"
             ],
-            "fixedbinaryorder": 13,
+            "fixedbinaryorder": 14,
             "hasStorage": true,
             "accessors": [
               {
@@ -11179,6 +11298,125 @@
           },
           {
             "kind": "Var",
+            "name": "appURL",
+            "printedName": "appURL",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.String?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:19PR1DigitalAdClassic32PageOfferDetailsModelApiResponseV6appURLSSSgvp",
+            "mangledName": "$s19PR1DigitalAdClassic32PageOfferDetailsModelApiResponseV6appURLSSSgvp",
+            "moduleName": "PR1DigitalAdClassic",
+            "declAttributes": [
+              "HasInitialValue",
+              "HasStorage"
+            ],
+            "fixedbinaryorder": 15,
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "Swift.String?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "String",
+                        "printedName": "Swift.String",
+                        "usr": "s:SS"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:19PR1DigitalAdClassic32PageOfferDetailsModelApiResponseV6appURLSSSgvg",
+                "mangledName": "$s19PR1DigitalAdClassic32PageOfferDetailsModelApiResponseV6appURLSSSgvg",
+                "moduleName": "PR1DigitalAdClassic",
+                "implicit": true,
+                "declAttributes": [
+                  "Transparent"
+                ],
+                "accessorKind": "get"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Set",
+                "printedName": "Set()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "Swift.String?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "String",
+                        "printedName": "Swift.String",
+                        "usr": "s:SS"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:19PR1DigitalAdClassic32PageOfferDetailsModelApiResponseV6appURLSSSgvs",
+                "mangledName": "$s19PR1DigitalAdClassic32PageOfferDetailsModelApiResponseV6appURLSSSgvs",
+                "moduleName": "PR1DigitalAdClassic",
+                "implicit": true,
+                "declAttributes": [
+                  "Transparent"
+                ],
+                "accessorKind": "set"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Modify",
+                "printedName": "Modify()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:19PR1DigitalAdClassic32PageOfferDetailsModelApiResponseV6appURLSSSgvM",
+                "mangledName": "$s19PR1DigitalAdClassic32PageOfferDetailsModelApiResponseV6appURLSSSgvM",
+                "moduleName": "PR1DigitalAdClassic",
+                "implicit": true,
+                "declAttributes": [
+                  "Transparent"
+                ],
+                "accessorKind": "_modify"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
             "name": "isCoupon",
             "printedName": "isCoupon",
             "children": [
@@ -11205,7 +11443,7 @@
               "HasInitialValue",
               "HasStorage"
             ],
-            "fixedbinaryorder": 14,
+            "fixedbinaryorder": 16,
             "hasStorage": true,
             "accessors": [
               {
@@ -11324,7 +11562,7 @@
               "HasInitialValue",
               "HasStorage"
             ],
-            "fixedbinaryorder": 15,
+            "fixedbinaryorder": 17,
             "hasStorage": true,
             "accessors": [
               {
@@ -11954,6 +12192,82 @@
               },
               {
                 "kind": "Var",
+                "name": "appURL",
+                "printedName": "appURL",
+                "children": [
+                  {
+                    "kind": "TypeFunc",
+                    "name": "Function",
+                    "printedName": "(PR1DigitalAdClassic.PageOfferDetailsModelApiResponse.CodingKeys.Type) -> PR1DigitalAdClassic.PageOfferDetailsModelApiResponse.CodingKeys",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "CodingKeys",
+                        "printedName": "PR1DigitalAdClassic.PageOfferDetailsModelApiResponse.CodingKeys",
+                        "usr": "s:19PR1DigitalAdClassic32PageOfferDetailsModelApiResponseV10CodingKeysO"
+                      },
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Metatype",
+                        "printedName": "PR1DigitalAdClassic.PageOfferDetailsModelApiResponse.CodingKeys.Type",
+                        "children": [
+                          {
+                            "kind": "TypeNominal",
+                            "name": "CodingKeys",
+                            "printedName": "PR1DigitalAdClassic.PageOfferDetailsModelApiResponse.CodingKeys",
+                            "usr": "s:19PR1DigitalAdClassic32PageOfferDetailsModelApiResponseV10CodingKeysO"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ],
+                "declKind": "EnumElement",
+                "usr": "s:19PR1DigitalAdClassic32PageOfferDetailsModelApiResponseV10CodingKeysO6appURLyA2EmF",
+                "mangledName": "$s19PR1DigitalAdClassic32PageOfferDetailsModelApiResponseV10CodingKeysO6appURLyA2EmF",
+                "moduleName": "PR1DigitalAdClassic",
+                "fixedbinaryorder": 14
+              },
+              {
+                "kind": "Var",
+                "name": "webURL",
+                "printedName": "webURL",
+                "children": [
+                  {
+                    "kind": "TypeFunc",
+                    "name": "Function",
+                    "printedName": "(PR1DigitalAdClassic.PageOfferDetailsModelApiResponse.CodingKeys.Type) -> PR1DigitalAdClassic.PageOfferDetailsModelApiResponse.CodingKeys",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "CodingKeys",
+                        "printedName": "PR1DigitalAdClassic.PageOfferDetailsModelApiResponse.CodingKeys",
+                        "usr": "s:19PR1DigitalAdClassic32PageOfferDetailsModelApiResponseV10CodingKeysO"
+                      },
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Metatype",
+                        "printedName": "PR1DigitalAdClassic.PageOfferDetailsModelApiResponse.CodingKeys.Type",
+                        "children": [
+                          {
+                            "kind": "TypeNominal",
+                            "name": "CodingKeys",
+                            "printedName": "PR1DigitalAdClassic.PageOfferDetailsModelApiResponse.CodingKeys",
+                            "usr": "s:19PR1DigitalAdClassic32PageOfferDetailsModelApiResponseV10CodingKeysO"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ],
+                "declKind": "EnumElement",
+                "usr": "s:19PR1DigitalAdClassic32PageOfferDetailsModelApiResponseV10CodingKeysO6webURLyA2EmF",
+                "mangledName": "$s19PR1DigitalAdClassic32PageOfferDetailsModelApiResponseV10CodingKeysO6webURLyA2EmF",
+                "moduleName": "PR1DigitalAdClassic",
+                "fixedbinaryorder": 15
+              },
+              {
+                "kind": "Var",
                 "name": "isCoupon",
                 "printedName": "isCoupon",
                 "children": [
@@ -11988,7 +12302,7 @@
                 "usr": "s:19PR1DigitalAdClassic32PageOfferDetailsModelApiResponseV10CodingKeysO8isCouponyA2EmF",
                 "mangledName": "$s19PR1DigitalAdClassic32PageOfferDetailsModelApiResponseV10CodingKeysO8isCouponyA2EmF",
                 "moduleName": "PR1DigitalAdClassic",
-                "fixedbinaryorder": 14
+                "fixedbinaryorder": 16
               },
               {
                 "kind": "Var",
@@ -12026,7 +12340,7 @@
                 "usr": "s:19PR1DigitalAdClassic32PageOfferDetailsModelApiResponseV10CodingKeysO11isShoppableyA2EmF",
                 "mangledName": "$s19PR1DigitalAdClassic32PageOfferDetailsModelApiResponseV10CodingKeysO11isShoppableyA2EmF",
                 "moduleName": "PR1DigitalAdClassic",
-                "fixedbinaryorder": 15
+                "fixedbinaryorder": 17
               },
               {
                 "kind": "Constructor",
@@ -26184,7 +26498,7 @@
       "kind": "StringLiteral",
       "offset": 147,
       "length": 8,
-      "value": "\"0.0.10\""
+      "value": "\"0.0.11\""
     },
     {
       "filePath": "\/Users\/sridatta\/Documents\/GitHub\/PR1DigitalAd-Kroger-IOS\/PR1DigitalAdClassic\/PR1DigitalAdClassic\/Models\/HotSpotsData.swift",
