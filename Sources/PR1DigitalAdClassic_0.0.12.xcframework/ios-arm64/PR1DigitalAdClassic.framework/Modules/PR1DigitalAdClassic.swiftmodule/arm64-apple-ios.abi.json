@@ -1,0 +1,3122 @@
+{
+  "ABIRoot": {
+    "kind": "Root",
+    "name": "PR1DigitalAdClassic",
+    "printedName": "PR1DigitalAdClassic",
+    "children": [
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "PR1DigitalAdClassic",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "PR1DigitalAdClassic",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "PR1DigitalAdClassic"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "PR1DigitalAdClassic",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "PR1DigitalAdClassic",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "PR1DigitalAdClassic",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "PR1DigitalAdClassic"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "PR1DigitalAdClassic",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "PR1DigitalAdClassic"
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "PR1DigitalAdClassic",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "Environment",
+        "printedName": "Environment",
+        "children": [
+          {
+            "kind": "Var",
+            "name": "QA",
+            "printedName": "QA",
+            "children": [
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(PR1DigitalAdClassic.Environment.Type) -> PR1DigitalAdClassic.Environment",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Environment",
+                    "printedName": "PR1DigitalAdClassic.Environment",
+                    "usr": "s:19PR1DigitalAdClassic11EnvironmentO"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Metatype",
+                    "printedName": "PR1DigitalAdClassic.Environment.Type",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Environment",
+                        "printedName": "PR1DigitalAdClassic.Environment",
+                        "usr": "s:19PR1DigitalAdClassic11EnvironmentO"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "declKind": "EnumElement",
+            "usr": "s:19PR1DigitalAdClassic11EnvironmentO2QAyA2CmF",
+            "mangledName": "$s19PR1DigitalAdClassic11EnvironmentO2QAyA2CmF",
+            "moduleName": "PR1DigitalAdClassic"
+          },
+          {
+            "kind": "Var",
+            "name": "PROD",
+            "printedName": "PROD",
+            "children": [
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(PR1DigitalAdClassic.Environment.Type) -> PR1DigitalAdClassic.Environment",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Environment",
+                    "printedName": "PR1DigitalAdClassic.Environment",
+                    "usr": "s:19PR1DigitalAdClassic11EnvironmentO"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Metatype",
+                    "printedName": "PR1DigitalAdClassic.Environment.Type",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Environment",
+                        "printedName": "PR1DigitalAdClassic.Environment",
+                        "usr": "s:19PR1DigitalAdClassic11EnvironmentO"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "declKind": "EnumElement",
+            "usr": "s:19PR1DigitalAdClassic11EnvironmentO4PRODyA2CmF",
+            "mangledName": "$s19PR1DigitalAdClassic11EnvironmentO4PRODyA2CmF",
+            "moduleName": "PR1DigitalAdClassic"
+          },
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init(rawValue:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "PR1DigitalAdClassic.Environment?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Environment",
+                    "printedName": "PR1DigitalAdClassic.Environment",
+                    "usr": "s:19PR1DigitalAdClassic11EnvironmentO"
+                  }
+                ],
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "s:19PR1DigitalAdClassic11EnvironmentO8rawValueACSgSS_tcfc",
+            "mangledName": "$s19PR1DigitalAdClassic11EnvironmentO8rawValueACSgSS_tcfc",
+            "moduleName": "PR1DigitalAdClassic",
+            "implicit": true,
+            "init_kind": "Designated"
+          },
+          {
+            "kind": "Var",
+            "name": "rawValue",
+            "printedName": "rawValue",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:19PR1DigitalAdClassic11EnvironmentO8rawValueSSvp",
+            "mangledName": "$s19PR1DigitalAdClassic11EnvironmentO8rawValueSSvp",
+            "moduleName": "PR1DigitalAdClassic",
+            "implicit": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:19PR1DigitalAdClassic11EnvironmentO8rawValueSSvg",
+                "mangledName": "$s19PR1DigitalAdClassic11EnvironmentO8rawValueSSvg",
+                "moduleName": "PR1DigitalAdClassic",
+                "implicit": true,
+                "accessorKind": "get"
+              }
+            ]
+          }
+        ],
+        "declKind": "Enum",
+        "usr": "s:19PR1DigitalAdClassic11EnvironmentO",
+        "mangledName": "$s19PR1DigitalAdClassic11EnvironmentO",
+        "moduleName": "PR1DigitalAdClassic",
+        "declAttributes": [
+          "AccessControl"
+        ],
+        "enumRawTypeName": "String",
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Equatable",
+            "printedName": "Equatable",
+            "usr": "s:SQ",
+            "mangledName": "$sSQ"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Hashable",
+            "printedName": "Hashable",
+            "usr": "s:SH",
+            "mangledName": "$sSH"
+          },
+          {
+            "kind": "Conformance",
+            "name": "RawRepresentable",
+            "printedName": "RawRepresentable",
+            "children": [
+              {
+                "kind": "TypeWitness",
+                "name": "RawValue",
+                "printedName": "RawValue",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ]
+              }
+            ],
+            "usr": "s:SY",
+            "mangledName": "$sSY"
+          }
+        ]
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "OfferDelegate",
+        "printedName": "OfferDelegate",
+        "children": [
+          {
+            "kind": "Function",
+            "name": "didTapOffer",
+            "printedName": "didTapOffer(content:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "SpotClickPayload",
+                "printedName": "PR1DigitalAdClassic.SpotClickPayload",
+                "usr": "s:19PR1DigitalAdClassic16SpotClickPayloadV"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:19PR1DigitalAdClassic13OfferDelegateP06didTapE07contentyAA16SpotClickPayloadV_tF",
+            "mangledName": "$s19PR1DigitalAdClassic13OfferDelegateP06didTapE07contentyAA16SpotClickPayloadV_tF",
+            "moduleName": "PR1DigitalAdClassic",
+            "genericSig": "<τ_0_0 where τ_0_0 : PR1DigitalAdClassic.OfferDelegate>",
+            "sugared_genericSig": "<Self where Self : PR1DigitalAdClassic.OfferDelegate>",
+            "protocolReq": true,
+            "declAttributes": [
+              "RawDocComment"
+            ],
+            "reqNewWitnessTableEntry": true,
+            "funcSelfKind": "NonMutating"
+          }
+        ],
+        "declKind": "Protocol",
+        "usr": "s:19PR1DigitalAdClassic13OfferDelegateP",
+        "mangledName": "$s19PR1DigitalAdClassic13OfferDelegateP",
+        "moduleName": "PR1DigitalAdClassic",
+        "genericSig": "<τ_0_0 : AnyObject>",
+        "sugared_genericSig": "<Self : AnyObject>",
+        "declAttributes": [
+          "AccessControl",
+          "RawDocComment"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          }
+        ]
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "DigitalAd",
+        "printedName": "DigitalAd",
+        "children": [
+          {
+            "kind": "Var",
+            "name": "hostingViewController",
+            "printedName": "hostingViewController",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "UIKit.UIViewController?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "UIViewController",
+                    "printedName": "UIKit.UIViewController",
+                    "usr": "c:objc(cs)UIViewController"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:19PR1DigitalAdClassic0bC0C21hostingViewControllerSo06UIViewG0CSgvp",
+            "mangledName": "$s19PR1DigitalAdClassic0bC0C21hostingViewControllerSo06UIViewG0CSgvp",
+            "moduleName": "PR1DigitalAdClassic",
+            "declAttributes": [
+              "HasInitialValue",
+              "Preconcurrency",
+              "Custom",
+              "HasStorage",
+              "AccessControl"
+            ],
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "UIKit.UIViewController?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "UIViewController",
+                        "printedName": "UIKit.UIViewController",
+                        "usr": "c:objc(cs)UIViewController"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:19PR1DigitalAdClassic0bC0C21hostingViewControllerSo06UIViewG0CSgvg",
+                "mangledName": "$s19PR1DigitalAdClassic0bC0C21hostingViewControllerSo06UIViewG0CSgvg",
+                "moduleName": "PR1DigitalAdClassic",
+                "implicit": true,
+                "accessorKind": "get"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Set",
+                "printedName": "Set()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "UIKit.UIViewController?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "UIViewController",
+                        "printedName": "UIKit.UIViewController",
+                        "usr": "c:objc(cs)UIViewController"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:19PR1DigitalAdClassic0bC0C21hostingViewControllerSo06UIViewG0CSgvs",
+                "mangledName": "$s19PR1DigitalAdClassic0bC0C21hostingViewControllerSo06UIViewG0CSgvs",
+                "moduleName": "PR1DigitalAdClassic",
+                "implicit": true,
+                "accessorKind": "set"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Modify",
+                "printedName": "Modify()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:19PR1DigitalAdClassic0bC0C21hostingViewControllerSo06UIViewG0CSgvM",
+                "mangledName": "$s19PR1DigitalAdClassic0bC0C21hostingViewControllerSo06UIViewG0CSgvM",
+                "moduleName": "PR1DigitalAdClassic",
+                "implicit": true,
+                "accessorKind": "_modify"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "delegate",
+            "printedName": "delegate",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "WeakStorage",
+                "printedName": "(any PR1DigitalAdClassic.OfferDelegate)?"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:19PR1DigitalAdClassic0bC0C8delegateAA13OfferDelegate_pSgvp",
+            "mangledName": "$s19PR1DigitalAdClassic0bC0C8delegateAA13OfferDelegate_pSgvp",
+            "moduleName": "PR1DigitalAdClassic",
+            "declAttributes": [
+              "HasInitialValue",
+              "Preconcurrency",
+              "Custom",
+              "HasStorage",
+              "ReferenceOwnership",
+              "AccessControl",
+              "RawDocComment"
+            ],
+            "ownership": 1,
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "(any PR1DigitalAdClassic.OfferDelegate)?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "OfferDelegate",
+                        "printedName": "any PR1DigitalAdClassic.OfferDelegate",
+                        "usr": "s:19PR1DigitalAdClassic13OfferDelegateP"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:19PR1DigitalAdClassic0bC0C8delegateAA13OfferDelegate_pSgvg",
+                "mangledName": "$s19PR1DigitalAdClassic0bC0C8delegateAA13OfferDelegate_pSgvg",
+                "moduleName": "PR1DigitalAdClassic",
+                "implicit": true,
+                "accessorKind": "get"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Set",
+                "printedName": "Set()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "(any PR1DigitalAdClassic.OfferDelegate)?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "OfferDelegate",
+                        "printedName": "any PR1DigitalAdClassic.OfferDelegate",
+                        "usr": "s:19PR1DigitalAdClassic13OfferDelegateP"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:19PR1DigitalAdClassic0bC0C8delegateAA13OfferDelegate_pSgvs",
+                "mangledName": "$s19PR1DigitalAdClassic0bC0C8delegateAA13OfferDelegate_pSgvs",
+                "moduleName": "PR1DigitalAdClassic",
+                "implicit": true,
+                "accessorKind": "set"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Modify",
+                "printedName": "Modify()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:19PR1DigitalAdClassic0bC0C8delegateAA13OfferDelegate_pSgvM",
+                "mangledName": "$s19PR1DigitalAdClassic0bC0C8delegateAA13OfferDelegate_pSgvM",
+                "moduleName": "PR1DigitalAdClassic",
+                "implicit": true,
+                "accessorKind": "_modify"
+              }
+            ]
+          },
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "DigitalAd",
+                "printedName": "PR1DigitalAdClassic.DigitalAd",
+                "usr": "c:@M@PR1DigitalAdClassic@objc(cs)DigitalAd"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "c:@M@PR1DigitalAdClassic@objc(cs)DigitalAd(im)init",
+            "mangledName": "$s19PR1DigitalAdClassic0bC0CACycfc",
+            "moduleName": "PR1DigitalAdClassic",
+            "overriding": true,
+            "objc_name": "init",
+            "declAttributes": [
+              "Dynamic",
+              "ObjC",
+              "Preconcurrency",
+              "Custom",
+              "AccessControl",
+              "RawDocComment"
+            ],
+            "init_kind": "Designated"
+          },
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init(_:containerView:adId:location:apiKey:apiEnv:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "DigitalAd",
+                "printedName": "PR1DigitalAdClassic.DigitalAd",
+                "usr": "c:@M@PR1DigitalAdClassic@objc(cs)DigitalAd"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "UIViewController",
+                "printedName": "UIKit.UIViewController",
+                "usr": "c:objc(cs)UIViewController"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "UIView",
+                "printedName": "UIKit.UIView",
+                "usr": "c:objc(cs)UIView"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Environment",
+                "printedName": "PR1DigitalAdClassic.Environment",
+                "usr": "s:19PR1DigitalAdClassic11EnvironmentO"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "s:19PR1DigitalAdClassic0bC0C_13containerView4adId8location6apiKey0J3EnvACSo16UIViewControllerC_So0M0CS3SAA11EnvironmentOtcfc",
+            "mangledName": "$s19PR1DigitalAdClassic0bC0C_13containerView4adId8location6apiKey0J3EnvACSo16UIViewControllerC_So0M0CS3SAA11EnvironmentOtcfc",
+            "moduleName": "PR1DigitalAdClassic",
+            "declAttributes": [
+              "Preconcurrency",
+              "Custom",
+              "AccessControl",
+              "RawDocComment"
+            ],
+            "init_kind": "Designated"
+          },
+          {
+            "kind": "Function",
+            "name": "viewDidLoad",
+            "printedName": "viewDidLoad()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "c:@M@PR1DigitalAdClassic@objc(cs)DigitalAd(im)viewDidLoad",
+            "mangledName": "$s19PR1DigitalAdClassic0bC0C11viewDidLoadyyF",
+            "moduleName": "PR1DigitalAdClassic",
+            "overriding": true,
+            "objc_name": "viewDidLoad",
+            "declAttributes": [
+              "Dynamic",
+              "ObjC",
+              "Preconcurrency",
+              "Custom",
+              "Override",
+              "AccessControl",
+              "RawDocComment"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "viewWillAppear",
+            "printedName": "viewWillAppear(_:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Bool",
+                "printedName": "Swift.Bool",
+                "usr": "s:Sb"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "c:@M@PR1DigitalAdClassic@objc(cs)DigitalAd(im)viewWillAppear:",
+            "mangledName": "$s19PR1DigitalAdClassic0bC0C14viewWillAppearyySbF",
+            "moduleName": "PR1DigitalAdClassic",
+            "overriding": true,
+            "objc_name": "viewWillAppear:",
+            "declAttributes": [
+              "Dynamic",
+              "ObjC",
+              "Preconcurrency",
+              "Custom",
+              "Override",
+              "AccessControl"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "viewWillDisappear",
+            "printedName": "viewWillDisappear(_:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Bool",
+                "printedName": "Swift.Bool",
+                "usr": "s:Sb"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "c:@M@PR1DigitalAdClassic@objc(cs)DigitalAd(im)viewWillDisappear:",
+            "mangledName": "$s19PR1DigitalAdClassic0bC0C17viewWillDisappearyySbF",
+            "moduleName": "PR1DigitalAdClassic",
+            "overriding": true,
+            "objc_name": "viewWillDisappear:",
+            "declAttributes": [
+              "Dynamic",
+              "ObjC",
+              "Preconcurrency",
+              "Custom",
+              "Override",
+              "AccessControl"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "embedInView",
+            "printedName": "embedInView(_:_:id:location:apiKey:environment:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "UIView",
+                "printedName": "UIKit.UIView",
+                "usr": "c:objc(cs)UIView"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "UIViewController",
+                "printedName": "UIKit.UIViewController",
+                "usr": "c:objc(cs)UIViewController"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Environment",
+                "printedName": "PR1DigitalAdClassic.Environment",
+                "usr": "s:19PR1DigitalAdClassic11EnvironmentO"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:19PR1DigitalAdClassic0bC0C11embedInView__2id8location6apiKey11environmentySo6UIViewC_So0M10ControllerCS3SAA11EnvironmentOtF",
+            "mangledName": "$s19PR1DigitalAdClassic0bC0C11embedInView__2id8location6apiKey11environmentySo6UIViewC_So0M10ControllerCS3SAA11EnvironmentOtF",
+            "moduleName": "PR1DigitalAdClassic",
+            "declAttributes": [
+              "Preconcurrency",
+              "Custom",
+              "AccessControl",
+              "RawDocComment"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "getVersionString",
+            "printedName": "getVersionString()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:19PR1DigitalAdClassic0bC0C16getVersionStringSSyF",
+            "mangledName": "$s19PR1DigitalAdClassic0bC0C16getVersionStringSSyF",
+            "moduleName": "PR1DigitalAdClassic",
+            "declAttributes": [
+              "Preconcurrency",
+              "Custom",
+              "AccessControl",
+              "RawDocComment"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "numberOfSections",
+            "printedName": "numberOfSections(in:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Int",
+                "printedName": "Swift.Int",
+                "usr": "s:Si"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "UITableView",
+                "printedName": "UIKit.UITableView",
+                "usr": "c:objc(cs)UITableView"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "c:@M@PR1DigitalAdClassic@objc(cs)DigitalAd(im)numberOfSectionsInTableView:",
+            "mangledName": "$s19PR1DigitalAdClassic0bC0C16numberOfSections2inSiSo11UITableViewC_tF",
+            "moduleName": "PR1DigitalAdClassic",
+            "overriding": true,
+            "objc_name": "numberOfSectionsInTableView:",
+            "declAttributes": [
+              "Dynamic",
+              "ObjC",
+              "Preconcurrency",
+              "Custom",
+              "Override",
+              "AccessControl",
+              "RawDocComment"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "tableView",
+            "printedName": "tableView(_:numberOfRowsInSection:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Int",
+                "printedName": "Swift.Int",
+                "usr": "s:Si"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "UITableView",
+                "printedName": "UIKit.UITableView",
+                "usr": "c:objc(cs)UITableView"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Int",
+                "printedName": "Swift.Int",
+                "usr": "s:Si"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "c:@M@PR1DigitalAdClassic@objc(cs)DigitalAd(im)tableView:numberOfRowsInSection:",
+            "mangledName": "$s19PR1DigitalAdClassic0bC0C9tableView_21numberOfRowsInSectionSiSo07UITableF0C_SitF",
+            "moduleName": "PR1DigitalAdClassic",
+            "overriding": true,
+            "objc_name": "tableView:numberOfRowsInSection:",
+            "declAttributes": [
+              "Dynamic",
+              "ObjC",
+              "Preconcurrency",
+              "Custom",
+              "Override",
+              "AccessControl"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "tableView",
+            "printedName": "tableView(_:heightForRowAt:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "CGFloat",
+                "printedName": "CoreGraphics.CGFloat",
+                "usr": "s:14CoreFoundation7CGFloatV"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "UITableView",
+                "printedName": "UIKit.UITableView",
+                "usr": "c:objc(cs)UITableView"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "IndexPath",
+                "printedName": "Foundation.IndexPath",
+                "usr": "s:10Foundation9IndexPathV"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "c:@M@PR1DigitalAdClassic@objc(cs)DigitalAd(im)tableView:heightForRowAtIndexPath:",
+            "mangledName": "$s19PR1DigitalAdClassic0bC0C9tableView_14heightForRowAt12CoreGraphics7CGFloatVSo07UITableF0C_10Foundation9IndexPathVtF",
+            "moduleName": "PR1DigitalAdClassic",
+            "overriding": true,
+            "objc_name": "tableView:heightForRowAtIndexPath:",
+            "declAttributes": [
+              "Dynamic",
+              "ObjC",
+              "Preconcurrency",
+              "Custom",
+              "Override",
+              "AccessControl"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "tableView",
+            "printedName": "tableView(_:cellForRowAt:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "UITableViewCell",
+                "printedName": "UIKit.UITableViewCell",
+                "usr": "c:objc(cs)UITableViewCell"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "UITableView",
+                "printedName": "UIKit.UITableView",
+                "usr": "c:objc(cs)UITableView"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "IndexPath",
+                "printedName": "Foundation.IndexPath",
+                "usr": "s:10Foundation9IndexPathV"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "c:@M@PR1DigitalAdClassic@objc(cs)DigitalAd(im)tableView:cellForRowAtIndexPath:",
+            "mangledName": "$s19PR1DigitalAdClassic0bC0C9tableView_12cellForRowAtSo07UITableF4CellCSo0kF0C_10Foundation9IndexPathVtF",
+            "moduleName": "PR1DigitalAdClassic",
+            "overriding": true,
+            "objc_name": "tableView:cellForRowAtIndexPath:",
+            "declAttributes": [
+              "Dynamic",
+              "ObjC",
+              "Preconcurrency",
+              "Custom",
+              "Override",
+              "AccessControl"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init(style:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "DigitalAd",
+                "printedName": "PR1DigitalAdClassic.DigitalAd",
+                "usr": "c:@M@PR1DigitalAdClassic@objc(cs)DigitalAd"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Style",
+                "printedName": "UIKit.UITableView.Style",
+                "usr": "c:@E@UITableViewStyle"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "c:@M@PR1DigitalAdClassic@objc(cs)DigitalAd(im)initWithStyle:",
+            "mangledName": "$s19PR1DigitalAdClassic0bC0C5styleACSo16UITableViewStyleV_tcfc",
+            "moduleName": "PR1DigitalAdClassic",
+            "overriding": true,
+            "implicit": true,
+            "objc_name": "initWithStyle:",
+            "declAttributes": [
+              "Dynamic",
+              "ObjC",
+              "Preconcurrency",
+              "Custom",
+              "Override"
+            ],
+            "init_kind": "Designated"
+          },
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init(nibName:bundle:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "DigitalAd",
+                "printedName": "PR1DigitalAdClassic.DigitalAd",
+                "usr": "c:@M@PR1DigitalAdClassic@objc(cs)DigitalAd"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.String?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Foundation.Bundle?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Bundle",
+                    "printedName": "Foundation.Bundle",
+                    "usr": "c:objc(cs)NSBundle"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "c:@M@PR1DigitalAdClassic@objc(cs)DigitalAd(im)initWithNibName:bundle:",
+            "mangledName": "$s19PR1DigitalAdClassic0bC0C7nibName6bundleACSSSg_So8NSBundleCSgtcfc",
+            "moduleName": "PR1DigitalAdClassic",
+            "overriding": true,
+            "implicit": true,
+            "objc_name": "initWithNibName:bundle:",
+            "declAttributes": [
+              "Dynamic",
+              "ObjC",
+              "Preconcurrency",
+              "Custom",
+              "Override"
+            ],
+            "init_kind": "Designated"
+          }
+        ],
+        "declKind": "Class",
+        "usr": "c:@M@PR1DigitalAdClassic@objc(cs)DigitalAd",
+        "mangledName": "$s19PR1DigitalAdClassic0bC0C",
+        "moduleName": "PR1DigitalAdClassic",
+        "declAttributes": [
+          "Preconcurrency",
+          "Custom",
+          "AccessControl",
+          "RawDocComment",
+          "ObjC"
+        ],
+        "superclassUsr": "c:objc(cs)UITableViewController",
+        "hasMissingDesignatedInitializers": true,
+        "superclassNames": [
+          "UIKit.UITableViewController",
+          "UIKit.UIViewController",
+          "UIKit.UIResponder",
+          "ObjectiveC.NSObject"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "_KeyValueCodingAndObserving",
+            "printedName": "_KeyValueCodingAndObserving",
+            "usr": "s:10Foundation27_KeyValueCodingAndObservingP",
+            "mangledName": "$s10Foundation27_KeyValueCodingAndObservingP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_KeyValueCodingAndObservingPublishing",
+            "printedName": "_KeyValueCodingAndObservingPublishing",
+            "usr": "s:10Foundation37_KeyValueCodingAndObservingPublishingP",
+            "mangledName": "$s10Foundation37_KeyValueCodingAndObservingPublishingP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CVarArg",
+            "printedName": "CVarArg",
+            "usr": "s:s7CVarArgP",
+            "mangledName": "$ss7CVarArgP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomDebugStringConvertible",
+            "printedName": "CustomDebugStringConvertible",
+            "usr": "s:s28CustomDebugStringConvertibleP",
+            "mangledName": "$ss28CustomDebugStringConvertibleP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomStringConvertible",
+            "printedName": "CustomStringConvertible",
+            "usr": "s:s23CustomStringConvertibleP",
+            "mangledName": "$ss23CustomStringConvertibleP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Equatable",
+            "printedName": "Equatable",
+            "usr": "s:SQ",
+            "mangledName": "$sSQ"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Hashable",
+            "printedName": "Hashable",
+            "usr": "s:SH",
+            "mangledName": "$sSH"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Sendable",
+            "printedName": "Sendable",
+            "usr": "s:s8SendableP",
+            "mangledName": "$ss8SendableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "SendableMetatype",
+            "printedName": "SendableMetatype",
+            "usr": "s:s16SendableMetatypeP",
+            "mangledName": "$ss16SendableMetatypeP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "UITraitChangeObservable",
+            "printedName": "UITraitChangeObservable",
+            "usr": "s:5UIKit23UITraitChangeObservableP",
+            "mangledName": "$s5UIKit23UITraitChangeObservableP"
+          }
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "PR1DigitalAdClassic",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "PR1DigitalAdClassic"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "PR1DigitalAdClassic",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "PR1DigitalAdClassic",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "PR1DigitalAdClassic",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "WeeklyAdPageCell",
+        "printedName": "WeeklyAdPageCell",
+        "children": [
+          {
+            "kind": "Function",
+            "name": "awakeFromNib",
+            "printedName": "awakeFromNib()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "c:@M@PR1DigitalAdClassic@objc(cs)WeeklyAdPageCell(im)awakeFromNib",
+            "mangledName": "$s19PR1DigitalAdClassic06WeeklyC8PageCellC12awakeFromNibyyF",
+            "moduleName": "PR1DigitalAdClassic",
+            "overriding": true,
+            "objc_name": "awakeFromNib",
+            "declAttributes": [
+              "Dynamic",
+              "ObjC",
+              "Preconcurrency",
+              "Custom",
+              "Override",
+              "AccessControl",
+              "RawDocComment"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "setSelected",
+            "printedName": "setSelected(_:animated:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Bool",
+                "printedName": "Swift.Bool",
+                "usr": "s:Sb"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Bool",
+                "printedName": "Swift.Bool",
+                "usr": "s:Sb"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "c:@M@PR1DigitalAdClassic@objc(cs)WeeklyAdPageCell(im)setSelected:animated:",
+            "mangledName": "$s19PR1DigitalAdClassic06WeeklyC8PageCellC11setSelected_8animatedySb_SbtF",
+            "moduleName": "PR1DigitalAdClassic",
+            "overriding": true,
+            "objc_name": "setSelected:animated:",
+            "declAttributes": [
+              "Dynamic",
+              "ObjC",
+              "Preconcurrency",
+              "Custom",
+              "Override",
+              "AccessControl"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "viewForZooming",
+            "printedName": "viewForZooming(in:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "UIKit.UIView?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "UIView",
+                    "printedName": "UIKit.UIView",
+                    "usr": "c:objc(cs)UIView"
+                  }
+                ],
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "UIScrollView",
+                "printedName": "UIKit.UIScrollView",
+                "usr": "c:objc(cs)UIScrollView"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "c:@M@PR1DigitalAdClassic@objc(cs)WeeklyAdPageCell(im)viewForZoomingInScrollView:",
+            "mangledName": "$s19PR1DigitalAdClassic06WeeklyC8PageCellC14viewForZooming2inSo6UIViewCSgSo12UIScrollViewC_tF",
+            "moduleName": "PR1DigitalAdClassic",
+            "objc_name": "viewForZoomingInScrollView:",
+            "declAttributes": [
+              "ObjC",
+              "Preconcurrency",
+              "Custom",
+              "AccessControl",
+              "RawDocComment"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init(style:reuseIdentifier:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "WeeklyAdPageCell",
+                "printedName": "PR1DigitalAdClassic.WeeklyAdPageCell",
+                "usr": "c:@M@PR1DigitalAdClassic@objc(cs)WeeklyAdPageCell"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "CellStyle",
+                "printedName": "UIKit.UITableViewCell.CellStyle",
+                "usr": "c:@E@UITableViewCellStyle"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.String?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "c:@M@PR1DigitalAdClassic@objc(cs)WeeklyAdPageCell(im)initWithStyle:reuseIdentifier:",
+            "mangledName": "$s19PR1DigitalAdClassic06WeeklyC8PageCellC5style15reuseIdentifierACSo011UITableViewG5StyleV_SSSgtcfc",
+            "moduleName": "PR1DigitalAdClassic",
+            "overriding": true,
+            "implicit": true,
+            "intro_iOS": "3.0",
+            "objc_name": "initWithStyle:reuseIdentifier:",
+            "declAttributes": [
+              "Dynamic",
+              "ObjC",
+              "Preconcurrency",
+              "Custom",
+              "Override",
+              "Available"
+            ],
+            "init_kind": "Designated"
+          },
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init(coder:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "PR1DigitalAdClassic.WeeklyAdPageCell?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "WeeklyAdPageCell",
+                    "printedName": "PR1DigitalAdClassic.WeeklyAdPageCell",
+                    "usr": "c:@M@PR1DigitalAdClassic@objc(cs)WeeklyAdPageCell"
+                  }
+                ],
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "NSCoder",
+                "printedName": "Foundation.NSCoder",
+                "usr": "c:objc(cs)NSCoder"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "c:@M@PR1DigitalAdClassic@objc(cs)WeeklyAdPageCell(im)initWithCoder:",
+            "mangledName": "$s19PR1DigitalAdClassic06WeeklyC8PageCellC5coderACSgSo7NSCoderC_tcfc",
+            "moduleName": "PR1DigitalAdClassic",
+            "overriding": true,
+            "implicit": true,
+            "objc_name": "initWithCoder:",
+            "declAttributes": [
+              "Dynamic",
+              "ObjC",
+              "Preconcurrency",
+              "Custom",
+              "Required"
+            ],
+            "init_kind": "Designated"
+          }
+        ],
+        "declKind": "Class",
+        "usr": "c:@M@PR1DigitalAdClassic@objc(cs)WeeklyAdPageCell",
+        "mangledName": "$s19PR1DigitalAdClassic06WeeklyC8PageCellC",
+        "moduleName": "PR1DigitalAdClassic",
+        "declAttributes": [
+          "Preconcurrency",
+          "Custom",
+          "AccessControl",
+          "ObjC"
+        ],
+        "superclassUsr": "c:objc(cs)UITableViewCell",
+        "inheritsConvenienceInitializers": true,
+        "superclassNames": [
+          "UIKit.UITableViewCell",
+          "UIKit.UIView",
+          "UIKit.UIResponder",
+          "ObjectiveC.NSObject"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "_KeyValueCodingAndObserving",
+            "printedName": "_KeyValueCodingAndObserving",
+            "usr": "s:10Foundation27_KeyValueCodingAndObservingP",
+            "mangledName": "$s10Foundation27_KeyValueCodingAndObservingP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_KeyValueCodingAndObservingPublishing",
+            "printedName": "_KeyValueCodingAndObservingPublishing",
+            "usr": "s:10Foundation37_KeyValueCodingAndObservingPublishingP",
+            "mangledName": "$s10Foundation37_KeyValueCodingAndObservingPublishingP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CVarArg",
+            "printedName": "CVarArg",
+            "usr": "s:s7CVarArgP",
+            "mangledName": "$ss7CVarArgP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomDebugStringConvertible",
+            "printedName": "CustomDebugStringConvertible",
+            "usr": "s:s28CustomDebugStringConvertibleP",
+            "mangledName": "$ss28CustomDebugStringConvertibleP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomStringConvertible",
+            "printedName": "CustomStringConvertible",
+            "usr": "s:s23CustomStringConvertibleP",
+            "mangledName": "$ss23CustomStringConvertibleP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Equatable",
+            "printedName": "Equatable",
+            "usr": "s:SQ",
+            "mangledName": "$sSQ"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Hashable",
+            "printedName": "Hashable",
+            "usr": "s:SH",
+            "mangledName": "$sSH"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Sendable",
+            "printedName": "Sendable",
+            "usr": "s:s8SendableP",
+            "mangledName": "$ss8SendableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "SendableMetatype",
+            "printedName": "SendableMetatype",
+            "usr": "s:s16SendableMetatypeP",
+            "mangledName": "$ss16SendableMetatypeP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "__DefaultCustomPlaygroundQuickLookable",
+            "printedName": "__DefaultCustomPlaygroundQuickLookable",
+            "usr": "s:s38__DefaultCustomPlaygroundQuickLookableP",
+            "mangledName": "$ss38__DefaultCustomPlaygroundQuickLookableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "UITraitChangeObservable",
+            "printedName": "UITraitChangeObservable",
+            "usr": "s:5UIKit23UITraitChangeObservableP",
+            "mangledName": "$s5UIKit23UITraitChangeObservableP"
+          }
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "PR1DigitalAdClassic",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "PR1DigitalAdClassic"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "PR1DigitalAdClassic",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "PR1DigitalAdClassic",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "MapConfigContent",
+        "printedName": "MapConfigContent",
+        "children": [
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init(from:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "MapConfigContent",
+                "printedName": "PR1DigitalAdClassic.MapConfigContent",
+                "usr": "s:19PR1DigitalAdClassic16MapConfigContentV"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Decoder",
+                "printedName": "any Swift.Decoder",
+                "usr": "s:s7DecoderP"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "s:19PR1DigitalAdClassic16MapConfigContentV4fromACs7Decoder_p_tKcfc",
+            "mangledName": "$s19PR1DigitalAdClassic16MapConfigContentV4fromACs7Decoder_p_tKcfc",
+            "moduleName": "PR1DigitalAdClassic",
+            "implicit": true,
+            "throwing": true,
+            "init_kind": "Designated"
+          },
+          {
+            "kind": "Function",
+            "name": "encode",
+            "printedName": "encode(to:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Encoder",
+                "printedName": "any Swift.Encoder",
+                "usr": "s:s7EncoderP"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:19PR1DigitalAdClassic16MapConfigContentV6encode2toys7Encoder_p_tKF",
+            "mangledName": "$s19PR1DigitalAdClassic16MapConfigContentV6encode2toys7Encoder_p_tKF",
+            "moduleName": "PR1DigitalAdClassic",
+            "implicit": true,
+            "throwing": true,
+            "funcSelfKind": "NonMutating"
+          }
+        ],
+        "declKind": "Struct",
+        "usr": "s:19PR1DigitalAdClassic16MapConfigContentV",
+        "mangledName": "$s19PR1DigitalAdClassic16MapConfigContentV",
+        "moduleName": "PR1DigitalAdClassic",
+        "declAttributes": [
+          "AccessControl"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Decodable",
+            "printedName": "Decodable",
+            "usr": "s:Se",
+            "mangledName": "$sSe"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Encodable",
+            "printedName": "Encodable",
+            "usr": "s:SE",
+            "mangledName": "$sSE"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          }
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "PR1DigitalAdClassic",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "PR1DigitalAdClassic",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "PR1DigitalAdClassic"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "PR1DigitalAdClassic",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "SpotClickPayload",
+        "printedName": "SpotClickPayload",
+        "children": [
+          {
+            "kind": "Var",
+            "name": "itemType",
+            "printedName": "itemType",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:19PR1DigitalAdClassic16SpotClickPayloadV8itemTypeSSvp",
+            "mangledName": "$s19PR1DigitalAdClassic16SpotClickPayloadV8itemTypeSSvp",
+            "moduleName": "PR1DigitalAdClassic",
+            "declAttributes": [
+              "HasStorage",
+              "AccessControl"
+            ],
+            "isLet": true,
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:19PR1DigitalAdClassic16SpotClickPayloadV8itemTypeSSvg",
+                "mangledName": "$s19PR1DigitalAdClassic16SpotClickPayloadV8itemTypeSSvg",
+                "moduleName": "PR1DigitalAdClassic",
+                "implicit": true,
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "id",
+            "printedName": "id",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:19PR1DigitalAdClassic16SpotClickPayloadV2idSSvp",
+            "mangledName": "$s19PR1DigitalAdClassic16SpotClickPayloadV2idSSvp",
+            "moduleName": "PR1DigitalAdClassic",
+            "declAttributes": [
+              "HasStorage",
+              "AccessControl"
+            ],
+            "isLet": true,
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:19PR1DigitalAdClassic16SpotClickPayloadV2idSSvg",
+                "mangledName": "$s19PR1DigitalAdClassic16SpotClickPayloadV2idSSvg",
+                "moduleName": "PR1DigitalAdClassic",
+                "implicit": true,
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "headline",
+            "printedName": "headline",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:19PR1DigitalAdClassic16SpotClickPayloadV8headlineSSvp",
+            "mangledName": "$s19PR1DigitalAdClassic16SpotClickPayloadV8headlineSSvp",
+            "moduleName": "PR1DigitalAdClassic",
+            "declAttributes": [
+              "HasStorage",
+              "AccessControl"
+            ],
+            "isLet": true,
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:19PR1DigitalAdClassic16SpotClickPayloadV8headlineSSvg",
+                "mangledName": "$s19PR1DigitalAdClassic16SpotClickPayloadV8headlineSSvg",
+                "moduleName": "PR1DigitalAdClassic",
+                "implicit": true,
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "bodyCopy",
+            "printedName": "bodyCopy",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:19PR1DigitalAdClassic16SpotClickPayloadV8bodyCopySSvp",
+            "mangledName": "$s19PR1DigitalAdClassic16SpotClickPayloadV8bodyCopySSvp",
+            "moduleName": "PR1DigitalAdClassic",
+            "declAttributes": [
+              "HasStorage",
+              "AccessControl"
+            ],
+            "isLet": true,
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:19PR1DigitalAdClassic16SpotClickPayloadV8bodyCopySSvg",
+                "mangledName": "$s19PR1DigitalAdClassic16SpotClickPayloadV8bodyCopySSvg",
+                "moduleName": "PR1DigitalAdClassic",
+                "implicit": true,
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "imageURL",
+            "printedName": "imageURL",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:19PR1DigitalAdClassic16SpotClickPayloadV8imageURLSSvp",
+            "mangledName": "$s19PR1DigitalAdClassic16SpotClickPayloadV8imageURLSSvp",
+            "moduleName": "PR1DigitalAdClassic",
+            "declAttributes": [
+              "HasStorage",
+              "AccessControl"
+            ],
+            "isLet": true,
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:19PR1DigitalAdClassic16SpotClickPayloadV8imageURLSSvg",
+                "mangledName": "$s19PR1DigitalAdClassic16SpotClickPayloadV8imageURLSSvg",
+                "moduleName": "PR1DigitalAdClassic",
+                "implicit": true,
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "pricingHTML",
+            "printedName": "pricingHTML",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:19PR1DigitalAdClassic16SpotClickPayloadV11pricingHTMLSSvp",
+            "mangledName": "$s19PR1DigitalAdClassic16SpotClickPayloadV11pricingHTMLSSvp",
+            "moduleName": "PR1DigitalAdClassic",
+            "declAttributes": [
+              "HasStorage",
+              "AccessControl"
+            ],
+            "isLet": true,
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:19PR1DigitalAdClassic16SpotClickPayloadV11pricingHTMLSSvg",
+                "mangledName": "$s19PR1DigitalAdClassic16SpotClickPayloadV11pricingHTMLSSvg",
+                "moduleName": "PR1DigitalAdClassic",
+                "implicit": true,
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "pricingText",
+            "printedName": "pricingText",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:19PR1DigitalAdClassic16SpotClickPayloadV11pricingTextSSvp",
+            "mangledName": "$s19PR1DigitalAdClassic16SpotClickPayloadV11pricingTextSSvp",
+            "moduleName": "PR1DigitalAdClassic",
+            "declAttributes": [
+              "HasStorage",
+              "AccessControl"
+            ],
+            "isLet": true,
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:19PR1DigitalAdClassic16SpotClickPayloadV11pricingTextSSvg",
+                "mangledName": "$s19PR1DigitalAdClassic16SpotClickPayloadV11pricingTextSSvg",
+                "moduleName": "PR1DigitalAdClassic",
+                "implicit": true,
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "upc",
+            "printedName": "upc",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:19PR1DigitalAdClassic16SpotClickPayloadV3upcSSvp",
+            "mangledName": "$s19PR1DigitalAdClassic16SpotClickPayloadV3upcSSvp",
+            "moduleName": "PR1DigitalAdClassic",
+            "declAttributes": [
+              "HasStorage",
+              "AccessControl"
+            ],
+            "isLet": true,
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:19PR1DigitalAdClassic16SpotClickPayloadV3upcSSvg",
+                "mangledName": "$s19PR1DigitalAdClassic16SpotClickPayloadV3upcSSvg",
+                "moduleName": "PR1DigitalAdClassic",
+                "implicit": true,
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "startDate",
+            "printedName": "startDate",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:19PR1DigitalAdClassic16SpotClickPayloadV9startDateSSvp",
+            "mangledName": "$s19PR1DigitalAdClassic16SpotClickPayloadV9startDateSSvp",
+            "moduleName": "PR1DigitalAdClassic",
+            "declAttributes": [
+              "HasStorage",
+              "AccessControl"
+            ],
+            "isLet": true,
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:19PR1DigitalAdClassic16SpotClickPayloadV9startDateSSvg",
+                "mangledName": "$s19PR1DigitalAdClassic16SpotClickPayloadV9startDateSSvg",
+                "moduleName": "PR1DigitalAdClassic",
+                "implicit": true,
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "endDate",
+            "printedName": "endDate",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:19PR1DigitalAdClassic16SpotClickPayloadV7endDateSSvp",
+            "mangledName": "$s19PR1DigitalAdClassic16SpotClickPayloadV7endDateSSvp",
+            "moduleName": "PR1DigitalAdClassic",
+            "declAttributes": [
+              "HasStorage",
+              "AccessControl"
+            ],
+            "isLet": true,
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:19PR1DigitalAdClassic16SpotClickPayloadV7endDateSSvg",
+                "mangledName": "$s19PR1DigitalAdClassic16SpotClickPayloadV7endDateSSvg",
+                "moduleName": "PR1DigitalAdClassic",
+                "implicit": true,
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "category",
+            "printedName": "category",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:19PR1DigitalAdClassic16SpotClickPayloadV8categorySSvp",
+            "mangledName": "$s19PR1DigitalAdClassic16SpotClickPayloadV8categorySSvp",
+            "moduleName": "PR1DigitalAdClassic",
+            "declAttributes": [
+              "HasStorage",
+              "AccessControl"
+            ],
+            "isLet": true,
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:19PR1DigitalAdClassic16SpotClickPayloadV8categorySSvg",
+                "mangledName": "$s19PR1DigitalAdClassic16SpotClickPayloadV8categorySSvg",
+                "moduleName": "PR1DigitalAdClassic",
+                "implicit": true,
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "disclaimer",
+            "printedName": "disclaimer",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:19PR1DigitalAdClassic16SpotClickPayloadV10disclaimerSSvp",
+            "mangledName": "$s19PR1DigitalAdClassic16SpotClickPayloadV10disclaimerSSvp",
+            "moduleName": "PR1DigitalAdClassic",
+            "declAttributes": [
+              "HasStorage",
+              "AccessControl"
+            ],
+            "isLet": true,
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:19PR1DigitalAdClassic16SpotClickPayloadV10disclaimerSSvg",
+                "mangledName": "$s19PR1DigitalAdClassic16SpotClickPayloadV10disclaimerSSvg",
+                "moduleName": "PR1DigitalAdClassic",
+                "implicit": true,
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "webURL",
+            "printedName": "webURL",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:19PR1DigitalAdClassic16SpotClickPayloadV6webURLSSvp",
+            "mangledName": "$s19PR1DigitalAdClassic16SpotClickPayloadV6webURLSSvp",
+            "moduleName": "PR1DigitalAdClassic",
+            "declAttributes": [
+              "HasStorage",
+              "AccessControl"
+            ],
+            "isLet": true,
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:19PR1DigitalAdClassic16SpotClickPayloadV6webURLSSvg",
+                "mangledName": "$s19PR1DigitalAdClassic16SpotClickPayloadV6webURLSSvg",
+                "moduleName": "PR1DigitalAdClassic",
+                "implicit": true,
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "appURL",
+            "printedName": "appURL",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:19PR1DigitalAdClassic16SpotClickPayloadV6appURLSSvp",
+            "mangledName": "$s19PR1DigitalAdClassic16SpotClickPayloadV6appURLSSvp",
+            "moduleName": "PR1DigitalAdClassic",
+            "declAttributes": [
+              "HasStorage",
+              "AccessControl"
+            ],
+            "isLet": true,
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:19PR1DigitalAdClassic16SpotClickPayloadV6appURLSSvg",
+                "mangledName": "$s19PR1DigitalAdClassic16SpotClickPayloadV6appURLSSvg",
+                "moduleName": "PR1DigitalAdClassic",
+                "implicit": true,
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "altText",
+            "printedName": "altText",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:19PR1DigitalAdClassic16SpotClickPayloadV7altTextSSvp",
+            "mangledName": "$s19PR1DigitalAdClassic16SpotClickPayloadV7altTextSSvp",
+            "moduleName": "PR1DigitalAdClassic",
+            "declAttributes": [
+              "HasStorage",
+              "AccessControl"
+            ],
+            "isLet": true,
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:19PR1DigitalAdClassic16SpotClickPayloadV7altTextSSvg",
+                "mangledName": "$s19PR1DigitalAdClassic16SpotClickPayloadV7altTextSSvg",
+                "moduleName": "PR1DigitalAdClassic",
+                "implicit": true,
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "eventText",
+            "printedName": "eventText",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:19PR1DigitalAdClassic16SpotClickPayloadV9eventTextSSvp",
+            "mangledName": "$s19PR1DigitalAdClassic16SpotClickPayloadV9eventTextSSvp",
+            "moduleName": "PR1DigitalAdClassic",
+            "declAttributes": [
+              "HasStorage",
+              "AccessControl"
+            ],
+            "isLet": true,
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:19PR1DigitalAdClassic16SpotClickPayloadV9eventTextSSvg",
+                "mangledName": "$s19PR1DigitalAdClassic16SpotClickPayloadV9eventTextSSvg",
+                "moduleName": "PR1DigitalAdClassic",
+                "implicit": true,
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "isCoupon",
+            "printedName": "isCoupon",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Bool",
+                "printedName": "Swift.Bool",
+                "usr": "s:Sb"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:19PR1DigitalAdClassic16SpotClickPayloadV8isCouponSbvp",
+            "mangledName": "$s19PR1DigitalAdClassic16SpotClickPayloadV8isCouponSbvp",
+            "moduleName": "PR1DigitalAdClassic",
+            "declAttributes": [
+              "HasStorage",
+              "AccessControl"
+            ],
+            "isLet": true,
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Bool",
+                    "printedName": "Swift.Bool",
+                    "usr": "s:Sb"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:19PR1DigitalAdClassic16SpotClickPayloadV8isCouponSbvg",
+                "mangledName": "$s19PR1DigitalAdClassic16SpotClickPayloadV8isCouponSbvg",
+                "moduleName": "PR1DigitalAdClassic",
+                "implicit": true,
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "isShoppable",
+            "printedName": "isShoppable",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Bool",
+                "printedName": "Swift.Bool",
+                "usr": "s:Sb"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:19PR1DigitalAdClassic16SpotClickPayloadV11isShoppableSbvp",
+            "mangledName": "$s19PR1DigitalAdClassic16SpotClickPayloadV11isShoppableSbvp",
+            "moduleName": "PR1DigitalAdClassic",
+            "declAttributes": [
+              "HasStorage",
+              "AccessControl"
+            ],
+            "isLet": true,
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Bool",
+                    "printedName": "Swift.Bool",
+                    "usr": "s:Sb"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:19PR1DigitalAdClassic16SpotClickPayloadV11isShoppableSbvg",
+                "mangledName": "$s19PR1DigitalAdClassic16SpotClickPayloadV11isShoppableSbvg",
+                "moduleName": "PR1DigitalAdClassic",
+                "implicit": true,
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init(from:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "SpotClickPayload",
+                "printedName": "PR1DigitalAdClassic.SpotClickPayload",
+                "usr": "s:19PR1DigitalAdClassic16SpotClickPayloadV"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Decoder",
+                "printedName": "any Swift.Decoder",
+                "usr": "s:s7DecoderP"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "s:19PR1DigitalAdClassic16SpotClickPayloadV4fromACs7Decoder_p_tKcfc",
+            "mangledName": "$s19PR1DigitalAdClassic16SpotClickPayloadV4fromACs7Decoder_p_tKcfc",
+            "moduleName": "PR1DigitalAdClassic",
+            "implicit": true,
+            "throwing": true,
+            "init_kind": "Designated"
+          },
+          {
+            "kind": "Function",
+            "name": "encode",
+            "printedName": "encode(to:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Encoder",
+                "printedName": "any Swift.Encoder",
+                "usr": "s:s7EncoderP"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:19PR1DigitalAdClassic16SpotClickPayloadV6encode2toys7Encoder_p_tKF",
+            "mangledName": "$s19PR1DigitalAdClassic16SpotClickPayloadV6encode2toys7Encoder_p_tKF",
+            "moduleName": "PR1DigitalAdClassic",
+            "implicit": true,
+            "throwing": true,
+            "funcSelfKind": "NonMutating"
+          }
+        ],
+        "declKind": "Struct",
+        "usr": "s:19PR1DigitalAdClassic16SpotClickPayloadV",
+        "mangledName": "$s19PR1DigitalAdClassic16SpotClickPayloadV",
+        "moduleName": "PR1DigitalAdClassic",
+        "declAttributes": [
+          "AccessControl",
+          "RawDocComment"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Decodable",
+            "printedName": "Decodable",
+            "usr": "s:Se",
+            "mangledName": "$sSe"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Encodable",
+            "printedName": "Encodable",
+            "usr": "s:SE",
+            "mangledName": "$sSE"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          }
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "PR1DigitalAdClassic",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "PR1DigitalAdClassic",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "PR1DigitalAdClassic"
+      }
+    ],
+    "json_format_version": 8
+  },
+  "ConstValues": [
+    {
+      "filePath": "\/Users\/sridatta\/Documents\/GitHub\/pr1\/PR1DigitalAd-Kroger-IOS-GIT\/PR1DigitalAdClassic\/PR1DigitalAdClassic\/Constants\/ColorConstants.swift",
+      "kind": "StringLiteral",
+      "offset": 222,
+      "length": 8,
+      "value": "\"E8F6FC\""
+    },
+    {
+      "filePath": "\/Users\/sridatta\/Documents\/GitHub\/pr1\/PR1DigitalAd-Kroger-IOS-GIT\/PR1DigitalAdClassic\/PR1DigitalAdClassic\/Constants\/ColorConstants.swift",
+      "kind": "StringLiteral",
+      "offset": 293,
+      "length": 8,
+      "value": "\"006BB7\""
+    },
+    {
+      "filePath": "\/Users\/sridatta\/Documents\/GitHub\/pr1\/PR1DigitalAd-Kroger-IOS-GIT\/PR1DigitalAdClassic\/PR1DigitalAdClassic\/Constants\/ColorConstants.swift",
+      "kind": "StringLiteral",
+      "offset": 364,
+      "length": 8,
+      "value": "\"DBDBDB\""
+    },
+    {
+      "filePath": "\/Users\/sridatta\/Documents\/GitHub\/pr1\/PR1DigitalAd-Kroger-IOS-GIT\/PR1DigitalAdClassic\/PR1DigitalAdClassic\/Constants\/ColorConstants.swift",
+      "kind": "StringLiteral",
+      "offset": 435,
+      "length": 8,
+      "value": "\"333333\""
+    },
+    {
+      "filePath": "\/Users\/sridatta\/Documents\/GitHub\/pr1\/PR1DigitalAd-Kroger-IOS-GIT\/PR1DigitalAdClassic\/PR1DigitalAdClassic\/Constants\/ColorConstants.swift",
+      "kind": "StringLiteral",
+      "offset": 506,
+      "length": 8,
+      "value": "\"097969\""
+    },
+    {
+      "filePath": "\/Users\/sridatta\/Documents\/GitHub\/pr1\/PR1DigitalAd-Kroger-IOS-GIT\/PR1DigitalAdClassic\/PR1DigitalAdClassic\/Constants\/ColorConstants.swift",
+      "kind": "StringLiteral",
+      "offset": 577,
+      "length": 8,
+      "value": "\"AFE1AF\""
+    },
+    {
+      "filePath": "\/Users\/sridatta\/Documents\/GitHub\/pr1\/PR1DigitalAd-Kroger-IOS-GIT\/PR1DigitalAdClassic\/PR1DigitalAdClassic\/Constants\/ApiConstants.swift",
+      "kind": "StringLiteral",
+      "offset": 250,
+      "length": 9,
+      "value": "\"XApiKey\""
+    },
+    {
+      "filePath": "\/Users\/sridatta\/Documents\/GitHub\/pr1\/PR1DigitalAd-Kroger-IOS-GIT\/PR1DigitalAdClassic\/PR1DigitalAdClassic\/Constants\/ApiConstants.swift",
+      "kind": "StringLiteral",
+      "offset": 302,
+      "length": 34,
+      "value": "\"pgH7QzFHJx4w46fI~5Uzi4RvtTwlEXp2\""
+    },
+    {
+      "filePath": "\/Users\/sridatta\/Documents\/GitHub\/pr1\/PR1DigitalAd-Kroger-IOS-GIT\/PR1DigitalAdClassic\/PR1DigitalAdClassic\/Constants\/ApiConstants.swift",
+      "kind": "StringLiteral",
+      "offset": 458,
+      "length": 9,
+      "value": "\"XApiKey\""
+    },
+    {
+      "filePath": "\/Users\/sridatta\/Documents\/GitHub\/pr1\/PR1DigitalAd-Kroger-IOS-GIT\/PR1DigitalAdClassic\/PR1DigitalAdClassic\/Constants\/ApiConstants.swift",
+      "kind": "StringLiteral",
+      "offset": 510,
+      "length": 34,
+      "value": "\"pgH7QzFHJx4w46fI~5Uzi4RvtTwlEXp2\""
+    },
+    {
+      "filePath": "\/Users\/sridatta\/Documents\/GitHub\/pr1\/PR1DigitalAd-Kroger-IOS-GIT\/PR1DigitalAdClassic\/PR1DigitalAdClassic\/Constants\/ApiConstants.swift",
+      "kind": "StringLiteral",
+      "offset": 664,
+      "length": 758,
+      "value": "\"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImN0eSI6IkpXVCJ9.eyJhbGciOiJITUFDMjU2IiwiaXNzIjoicHVyZXJlZC1hZG1pbi0hISQkIiwic3ViIjoicHVyZXJlZC1hZG1pbi0hISQkIiwiYXVkIjoiMjE4MzcyMy0yOTAzODItMjNeXiYoIiwiaWF0IjoxNzE1ODM5MjEzLCJleHAiOjE3MTU5MjU2MTMuMCwidWlkIjoiNWU5NGJkYmItMzEwNi00MWUyLWI4ODktYjQ1YzBhZWM0MDhkIiwiY2xhaW1zIjp7ImVtYWlsIjoic3VwZXIuYWRtaW5AcHVyZXJlZC5jb20iLCJkaXNwbGF5TmFtZSI6IkFkbWluIFN1cGVyIn0sInNlY3JldCI6IjI1MTRFNEM2LUJCNkYtNEU2MC05QTk4LUE4MzU4QzczOERCMCIsImp0aSI6IjNlZmJhYWQxLTFiYWYtNDAxNC05YzU4LTExNzUzYjk5MGNhMCIsInN1YnNjcmlwdGlvbiI6IjgzYThmMjE3LWExODAtNGYzNC1hY2MwLTUxNzA5ZjJmZjg2MiIsInN1YnNjcmlwdGlvbnNwZWNpZmljIjoiMSIsInJvbGUiOiJTdXBlckFkbWluIiwic2lkIjoiZWJkZGNlOTEtMDg4MS00OGIwLTk4NmItNTU4Mzg1NzY3ODQ1In0.4CxuadczR1-ZPyq1kphqskZih662EvHjKAgk6Lh7Q50\""
+    },
+    {
+      "filePath": "\/Users\/sridatta\/Documents\/GitHub\/pr1\/PR1DigitalAd-Kroger-IOS-GIT\/PR1DigitalAdClassic\/PR1DigitalAdClassic\/Constants\/ApiConstants.swift",
+      "kind": "StringLiteral",
+      "offset": 1466,
+      "length": 15,
+      "value": "\"Authorization\""
+    },
+    {
+      "filePath": "\/Users\/sridatta\/Documents\/GitHub\/pr1\/PR1DigitalAd-Kroger-IOS-GIT\/PR1DigitalAdClassic\/PR1DigitalAdClassic\/Constants\/ApiConstants.swift",
+      "kind": "StringLiteral",
+      "offset": 1483,
+      "length": 26,
+      "value": "\"Bearer \""
+    },
+    {
+      "filePath": "\/Users\/sridatta\/Documents\/GitHub\/pr1\/PR1DigitalAd-Kroger-IOS-GIT\/PR1DigitalAdClassic\/PR1DigitalAdClassic\/Constants\/ApiConstants.swift",
+      "kind": "StringLiteral",
+      "offset": 1508,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/sridatta\/Documents\/GitHub\/pr1\/PR1DigitalAd-Kroger-IOS-GIT\/PR1DigitalAdClassic\/PR1DigitalAdClassic\/Constants\/ApiConstants.swift",
+      "kind": "StringLiteral",
+      "offset": 1672,
+      "length": 66,
+      "value": "\"https:\/\/oms-kroger-webapp-da-classic-api-qa.przone.net\/api\/dacs\/\""
+    },
+    {
+      "filePath": "\/Users\/sridatta\/Documents\/GitHub\/pr1\/PR1DigitalAd-Kroger-IOS-GIT\/PR1DigitalAdClassic\/PR1DigitalAdClassic\/Constants\/ApiConstants.swift",
+      "kind": "StringLiteral",
+      "offset": 1781,
+      "length": 68,
+      "value": "\"https:\/\/oms-kroger-webapp-da-classic-api-prod.przone.net\/api\/dacs\/\""
+    },
+    {
+      "filePath": "\/Users\/sridatta\/Documents\/GitHub\/pr1\/PR1DigitalAd-Kroger-IOS-GIT\/PR1DigitalAdClassic\/PR1DigitalAdClassic\/Singletons\/ApiManager.swift",
+      "kind": "StringLiteral",
+      "offset": 5569,
+      "length": 22,
+      "value": "\"image.prefetch.queue\""
+    },
+    {
+      "filePath": "\/Users\/sridatta\/Documents\/GitHub\/pr1\/PR1DigitalAd-Kroger-IOS-GIT\/PR1DigitalAdClassic\/PR1DigitalAdClassic\/Views\/DigitalAd.swift",
+      "kind": "StringLiteral",
+      "offset": 157,
+      "length": 4,
+      "value": "\"QA\""
+    },
+    {
+      "filePath": "\/Users\/sridatta\/Documents\/GitHub\/pr1\/PR1DigitalAd-Kroger-IOS-GIT\/PR1DigitalAdClassic\/PR1DigitalAdClassic\/Views\/DigitalAd.swift",
+      "kind": "StringLiteral",
+      "offset": 178,
+      "length": 6,
+      "value": "\"PROD\""
+    },
+    {
+      "filePath": "\/Users\/sridatta\/Documents\/GitHub\/pr1\/PR1DigitalAd-Kroger-IOS-GIT\/PR1DigitalAdClassic\/PR1DigitalAdClassic\/Views\/DigitalAd.swift",
+      "kind": "StringLiteral",
+      "offset": 861,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/sridatta\/Documents\/GitHub\/pr1\/PR1DigitalAd-Kroger-IOS-GIT\/PR1DigitalAdClassic\/PR1DigitalAdClassic\/Views\/DigitalAd.swift",
+      "kind": "StringLiteral",
+      "offset": 906,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/sridatta\/Documents\/GitHub\/pr1\/PR1DigitalAd-Kroger-IOS-GIT\/PR1DigitalAdClassic\/PR1DigitalAdClassic\/Views\/DigitalAd.swift",
+      "kind": "StringLiteral",
+      "offset": 1237,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/sridatta\/Documents\/GitHub\/pr1\/PR1DigitalAd-Kroger-IOS-GIT\/PR1DigitalAdClassic\/PR1DigitalAdClassic\/Views\/DigitalAd.swift",
+      "kind": "StringLiteral",
+      "offset": 1282,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/sridatta\/Documents\/GitHub\/pr1\/PR1DigitalAd-Kroger-IOS-GIT\/PR1DigitalAdClassic\/PR1DigitalAdClassic\/Views\/DigitalAd.swift",
+      "kind": "StringLiteral",
+      "offset": 1333,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/sridatta\/Documents\/GitHub\/pr1\/PR1DigitalAd-Kroger-IOS-GIT\/PR1DigitalAdClassic\/PR1DigitalAdClassic\/Views\/DigitalAd.swift",
+      "kind": "Dictionary",
+      "offset": 1487,
+      "length": 3,
+      "value": "[]"
+    },
+    {
+      "filePath": "\/Users\/sridatta\/Documents\/GitHub\/pr1\/PR1DigitalAd-Kroger-IOS-GIT\/PR1DigitalAdClassic\/PR1DigitalAdClassic\/Models\/GetPageConfigModel.swift",
+      "kind": "StringLiteral",
+      "offset": 1160,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/sridatta\/Documents\/GitHub\/pr1\/PR1DigitalAd-Kroger-IOS-GIT\/PR1DigitalAdClassic\/PR1DigitalAdClassic\/Models\/GetPageConfigModel.swift",
+      "kind": "StringLiteral",
+      "offset": 1203,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/sridatta\/Documents\/GitHub\/pr1\/PR1DigitalAd-Kroger-IOS-GIT\/PR1DigitalAdClassic\/PR1DigitalAdClassic\/Models\/GetPageConfigModel.swift",
+      "kind": "StringLiteral",
+      "offset": 1246,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/sridatta\/Documents\/GitHub\/pr1\/PR1DigitalAd-Kroger-IOS-GIT\/PR1DigitalAdClassic\/PR1DigitalAdClassic\/Models\/GetPageConfigModel.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1528,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/sridatta\/Documents\/GitHub\/pr1\/PR1DigitalAd-Kroger-IOS-GIT\/PR1DigitalAdClassic\/PR1DigitalAdClassic\/Models\/GetPageConfigModel.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1582,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/sridatta\/Documents\/GitHub\/pr1\/PR1DigitalAd-Kroger-IOS-GIT\/PR1DigitalAdClassic\/PR1DigitalAdClassic\/Models\/GetPageConfigModel.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1636,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/sridatta\/Documents\/GitHub\/pr1\/PR1DigitalAd-Kroger-IOS-GIT\/PR1DigitalAdClassic\/PR1DigitalAdClassic\/Models\/GetPageConfigModel.swift",
+      "kind": "StringLiteral",
+      "offset": 1680,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/sridatta\/Documents\/GitHub\/pr1\/PR1DigitalAd-Kroger-IOS-GIT\/PR1DigitalAdClassic\/PR1DigitalAdClassic\/Models\/GetPageConfigModel.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1725,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/sridatta\/Documents\/GitHub\/pr1\/PR1DigitalAd-Kroger-IOS-GIT\/PR1DigitalAdClassic\/PR1DigitalAdClassic\/Models\/GetPageConfigModel.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1773,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/sridatta\/Documents\/GitHub\/pr1\/PR1DigitalAd-Kroger-IOS-GIT\/PR1DigitalAdClassic\/PR1DigitalAdClassic\/Models\/GetPageConfigModel.swift",
+      "kind": "StringLiteral",
+      "offset": 1917,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/sridatta\/Documents\/GitHub\/pr1\/PR1DigitalAd-Kroger-IOS-GIT\/PR1DigitalAdClassic\/PR1DigitalAdClassic\/Models\/GetPageConfigModel.swift",
+      "kind": "StringLiteral",
+      "offset": 2155,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/sridatta\/Documents\/GitHub\/pr1\/PR1DigitalAd-Kroger-IOS-GIT\/PR1DigitalAdClassic\/PR1DigitalAdClassic\/Models\/GetPageConfigModel.swift",
+      "kind": "StringLiteral",
+      "offset": 2206,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/sridatta\/Documents\/GitHub\/pr1\/PR1DigitalAd-Kroger-IOS-GIT\/PR1DigitalAdClassic\/PR1DigitalAdClassic\/Models\/GetPageConfigModel.swift",
+      "kind": "StringLiteral",
+      "offset": 2309,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/sridatta\/Documents\/GitHub\/pr1\/PR1DigitalAd-Kroger-IOS-GIT\/PR1DigitalAdClassic\/PR1DigitalAdClassic\/Models\/GetPageConfigModel.swift",
+      "kind": "StringLiteral",
+      "offset": 2450,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/sridatta\/Documents\/GitHub\/pr1\/PR1DigitalAd-Kroger-IOS-GIT\/PR1DigitalAdClassic\/PR1DigitalAdClassic\/Models\/GetPageConfigModel.swift",
+      "kind": "StringLiteral",
+      "offset": 2501,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/sridatta\/Documents\/GitHub\/pr1\/PR1DigitalAd-Kroger-IOS-GIT\/PR1DigitalAdClassic\/PR1DigitalAdClassic\/Models\/GetPageConfigModel.swift",
+      "kind": "StringLiteral",
+      "offset": 2583,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/sridatta\/Documents\/GitHub\/pr1\/PR1DigitalAd-Kroger-IOS-GIT\/PR1DigitalAdClassic\/PR1DigitalAdClassic\/Models\/GetPageConfigModel.swift",
+      "kind": "StringLiteral",
+      "offset": 2634,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/sridatta\/Documents\/GitHub\/pr1\/PR1DigitalAd-Kroger-IOS-GIT\/PR1DigitalAdClassic\/PR1DigitalAdClassic\/Models\/GetPageConfigModel.swift",
+      "kind": "StringLiteral",
+      "offset": 2685,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/sridatta\/Documents\/GitHub\/pr1\/PR1DigitalAd-Kroger-IOS-GIT\/PR1DigitalAdClassic\/PR1DigitalAdClassic\/Singletons\/Logger.swift",
+      "kind": "StringLiteral",
+      "offset": 190,
+      "length": 5,
+      "value": "\"BUG\""
+    },
+    {
+      "filePath": "\/Users\/sridatta\/Documents\/GitHub\/pr1\/PR1DigitalAd-Kroger-IOS-GIT\/PR1DigitalAdClassic\/PR1DigitalAdClassic\/Singletons\/Logger.swift",
+      "kind": "StringLiteral",
+      "offset": 216,
+      "length": 6,
+      "value": "\"INFO\""
+    },
+    {
+      "filePath": "\/Users\/sridatta\/Documents\/GitHub\/pr1\/PR1DigitalAd-Kroger-IOS-GIT\/PR1DigitalAdClassic\/PR1DigitalAdClassic\/Singletons\/Logger.swift",
+      "kind": "StringLiteral",
+      "offset": 246,
+      "length": 9,
+      "value": "\"WARNING\""
+    },
+    {
+      "filePath": "\/Users\/sridatta\/Documents\/GitHub\/pr1\/PR1DigitalAd-Kroger-IOS-GIT\/PR1DigitalAdClassic\/PR1DigitalAdClassic\/Singletons\/Logger.swift",
+      "kind": "StringLiteral",
+      "offset": 277,
+      "length": 7,
+      "value": "\"ERROR\""
+    },
+    {
+      "filePath": "\/Users\/sridatta\/Documents\/GitHub\/pr1\/PR1DigitalAd-Kroger-IOS-GIT\/PR1DigitalAdClassic\/PR1DigitalAdClassic\/Singletons\/Logger.swift",
+      "kind": "StringLiteral",
+      "offset": 308,
+      "length": 9,
+      "value": "\"SUCCESS\""
+    },
+    {
+      "filePath": "\/Users\/sridatta\/Documents\/GitHub\/pr1\/PR1DigitalAd-Kroger-IOS-GIT\/PR1DigitalAdClassic\/PR1DigitalAdClassic\/Singletons\/Logger.swift",
+      "kind": "StringLiteral",
+      "offset": 341,
+      "length": 9,
+      "value": "\"FAILURE\""
+    },
+    {
+      "filePath": "\/Users\/sridatta\/Documents\/GitHub\/pr1\/PR1DigitalAd-Kroger-IOS-GIT\/PR1DigitalAdClassic\/PR1DigitalAdClassic\/Singletons\/Logger.swift",
+      "kind": "StringLiteral",
+      "offset": 375,
+      "length": 10,
+      "value": "\"DOWNLOAD\""
+    },
+    {
+      "filePath": "\/Users\/sridatta\/Documents\/GitHub\/pr1\/PR1DigitalAd-Kroger-IOS-GIT\/PR1DigitalAdClassic\/PR1DigitalAdClassic\/Singletons\/Logger.swift",
+      "kind": "StringLiteral",
+      "offset": 418,
+      "length": 19,
+      "value": "\"DOWNLOAD_COMPLETE\""
+    },
+    {
+      "filePath": "\/Users\/sridatta\/Documents\/GitHub\/pr1\/PR1DigitalAd-Kroger-IOS-GIT\/PR1DigitalAdClassic\/PR1DigitalAdClassic\/Singletons\/Logger.swift",
+      "kind": "StringLiteral",
+      "offset": 459,
+      "length": 7,
+      "value": "\"ALERT\""
+    },
+    {
+      "filePath": "\/Users\/sridatta\/Documents\/GitHub\/pr1\/PR1DigitalAd-Kroger-IOS-GIT\/PR1DigitalAdClassic\/PR1DigitalAdClassic\/Singletons\/Logger.swift",
+      "kind": "StringLiteral",
+      "offset": 486,
+      "length": 5,
+      "value": "\"API\""
+    },
+    {
+      "filePath": "\/Users\/sridatta\/Documents\/GitHub\/pr1\/PR1DigitalAd-Kroger-IOS-GIT\/PR1DigitalAdClassic\/PR1DigitalAdClassic\/Singletons\/Logger.swift",
+      "kind": "StringLiteral",
+      "offset": 513,
+      "length": 7,
+      "value": "\"OFFER\""
+    },
+    {
+      "filePath": "\/Users\/sridatta\/Documents\/GitHub\/pr1\/PR1DigitalAd-Kroger-IOS-GIT\/PR1DigitalAdClassic\/PR1DigitalAdClassic\/Singletons\/Logger.swift",
+      "kind": "StringLiteral",
+      "offset": 542,
+      "length": 7,
+      "value": "\"PROMO\""
+    },
+    {
+      "filePath": "\/Users\/sridatta\/Documents\/GitHub\/pr1\/PR1DigitalAd-Kroger-IOS-GIT\/PR1DigitalAdClassic\/PR1DigitalAdClassic\/Singletons\/Logger.swift",
+      "kind": "StringLiteral",
+      "offset": 572,
+      "length": 8,
+      "value": "\"LOADER\""
+    },
+    {
+      "filePath": "\/Users\/sridatta\/Documents\/GitHub\/pr1\/PR1DigitalAd-Kroger-IOS-GIT\/PR1DigitalAdClassic\/PR1DigitalAdClassic\/Singletons\/Logger.swift",
+      "kind": "StringLiteral",
+      "offset": 604,
+      "length": 9,
+      "value": "\"HOTSPOT\""
+    },
+    {
+      "filePath": "\/Users\/sridatta\/Documents\/GitHub\/pr1\/PR1DigitalAd-Kroger-IOS-GIT\/PR1DigitalAdClassic\/PR1DigitalAdClassic\/Singletons\/Logger.swift",
+      "kind": "StringLiteral",
+      "offset": 640,
+      "length": 13,
+      "value": "\"HOTSPOT_TAP\""
+    },
+    {
+      "filePath": "\/Users\/sridatta\/Documents\/GitHub\/pr1\/PR1DigitalAd-Kroger-IOS-GIT\/PR1DigitalAdClassic\/PR1DigitalAdClassic\/Singletons\/Logger.swift",
+      "kind": "BooleanLiteral",
+      "offset": 709,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/sridatta\/Documents\/GitHub\/pr1\/PR1DigitalAd-Kroger-IOS-GIT\/PR1DigitalAdClassic\/PR1DigitalAdClassic\/Constants\/Constants.swift",
+      "kind": "StringLiteral",
+      "offset": 147,
+      "length": 8,
+      "value": "\"0.0.12\""
+    },
+    {
+      "filePath": "\/Users\/sridatta\/Documents\/GitHub\/pr1\/PR1DigitalAd-Kroger-IOS-GIT\/PR1DigitalAdClassic\/PR1DigitalAdClassic\/Models\/HotSpotsData.swift",
+      "kind": "StringLiteral",
+      "offset": 525,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/sridatta\/Documents\/GitHub\/pr1\/PR1DigitalAd-Kroger-IOS-GIT\/PR1DigitalAdClassic\/PR1DigitalAdClassic\/Models\/HotSpotsData.swift",
+      "kind": "StringLiteral",
+      "offset": 576,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/sridatta\/Documents\/GitHub\/pr1\/PR1DigitalAd-Kroger-IOS-GIT\/PR1DigitalAdClassic\/PR1DigitalAdClassic\/Models\/HotSpotsData.swift",
+      "kind": "StringLiteral",
+      "offset": 701,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/sridatta\/Documents\/GitHub\/pr1\/PR1DigitalAd-Kroger-IOS-GIT\/PR1DigitalAdClassic\/PR1DigitalAdClassic\/Models\/HotSpotsData.swift",
+      "kind": "StringLiteral",
+      "offset": 752,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/sridatta\/Documents\/GitHub\/pr1\/PR1DigitalAd-Kroger-IOS-GIT\/PR1DigitalAdClassic\/PR1DigitalAdClassic\/Models\/HotSpotsData.swift",
+      "kind": "StringLiteral",
+      "offset": 803,
+      "length": 2,
+      "value": "\"\""
+    }
+  ]
+}
