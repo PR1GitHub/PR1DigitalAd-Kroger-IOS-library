@@ -4,6 +4,10 @@
 <dict>
 	<key>files</key>
 	<dict>
+		<key>Assets.car</key>
+		<data>
+		3z7B/WD3tOle+fj2KsTPj05tyNA=
+		</data>
 		<key>DigitalAd.nib</key>
 		<data>
 		2KE4Q6qEpFjT6yswiKBNDhCoD/Y=
@@ -18,23 +22,23 @@
 		</data>
 		<key>Modules/PR1DigitalAdClassic.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
-		nI++bGF5UK/Je5BW/h4Z1cHfy8A=
+		JIKr8RUa51sIW8vqqG5t5FLrU6s=
 		</data>
 		<key>Modules/PR1DigitalAdClassic.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<data>
-		0X4O0USw3oR5zn7ho/wzgAS4kVg=
+		EvPwSvorKQhl1yXRZdK8MSyBvNU=
 		</data>
 		<key>Modules/PR1DigitalAdClassic.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
-		in0e/i5rh+eaHCKFNaHfwsZnfTA=
+		nHJ17Ex9uheXuAPF9quHhl0kn+I=
 		</data>
 		<key>Modules/PR1DigitalAdClassic.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<data>
-		0X4O0USw3oR5zn7ho/wzgAS4kVg=
+		EvPwSvorKQhl1yXRZdK8MSyBvNU=
 		</data>
 		<key>Modules/PR1DigitalAdClassic.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		rao//LZWoXrwvSwtnCwAaHY41Tw=
+		JFMwq2MR7I+rdZaKgUVCcFdlaEY=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -42,11 +46,18 @@
 		</data>
 		<key>WeeklyAdPageCell.nib</key>
 		<data>
-		f+KkB/2WunXJ9xymYC4s1fz8ok8=
+		ZNsJG0kuGYnjebSLgiBiMvdbg28=
 		</data>
 	</dict>
 	<key>files2</key>
 	<dict>
+		<key>Assets.car</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			wdbRFQMiLkUWwATP79nWEJSRk+Zk8OhPlY9E5YBnXsk=
+			</data>
+		</dict>
 		<key>DigitalAd.nib</key>
 		<dict>
 			<key>hash2</key>
@@ -65,35 +76,35 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			9DJlyDa5O73cqxk2xgdh2/10jcBL4lrB2Q6lTP7OGRU=
+			A6HGNYN1BTRA33HWx23WgKwZ5o9tKAek/HtbJv97CjE=
 			</data>
 		</dict>
 		<key>Modules/PR1DigitalAdClassic.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			v4Fa5uBMKg4fOJPqtrr9t3oxhfrTkmBz/53nWJdlF88=
+			5nRAtoIqSjE4SKIpxVKdUuak/8ZytoH6ro5rpWr60zM=
 			</data>
 		</dict>
 		<key>Modules/PR1DigitalAdClassic.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			uVd1Xk34LIFVQszbGirj11fuKFCo77wvC/3eIi8qxwk=
+			yjNQ2FSbyE096pKIRXYd5EXGfFi/I4InvJrshAUjeKY=
 			</data>
 		</dict>
 		<key>Modules/PR1DigitalAdClassic.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			v4Fa5uBMKg4fOJPqtrr9t3oxhfrTkmBz/53nWJdlF88=
+			5nRAtoIqSjE4SKIpxVKdUuak/8ZytoH6ro5rpWr60zM=
 			</data>
 		</dict>
 		<key>Modules/PR1DigitalAdClassic.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			5CjHZDIgBJzl3Bn2aGyCNI3u/wktLga4TZeGSyllx+Y=
+			uldC56vG1VDywzlvfGdfs46KpTugY0Fd3mvQqmQxl/I=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -107,7 +118,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			mBqk2SBBG4dbOPgwnKC7GJjeF36jv2JTRIzlvOsUXFU=
+			IZ06TJokLsmuy/u2qj1iTQcIeKQuxYxg64QUNjiy1xc=
 			</data>
 		</dict>
 	</dict>

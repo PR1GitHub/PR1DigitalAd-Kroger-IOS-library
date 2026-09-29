@@ -1,4 +1,4 @@
-# PR1DigitalAd-Kroger-IOS-library : v0.0.15
+# PR1DigitalAd-Kroger-IOS-library : v0.0.16
 
 **Adding Swift Package**
 
